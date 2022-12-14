@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "model regression.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -187,9 +187,9 @@
   },
   "active": "563b2d7c4bdbe362",
   "lastOpenFiles": [
-    "Tests and p-values.md",
-    "model regression.md",
     "Confidence intervals (normal dist. one sample).md",
+    "model regression.md",
+    "Tests and p-values.md",
     "Probabitlity.md",
     "Anova.md",
     "README.md",
