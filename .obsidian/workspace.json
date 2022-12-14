@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Confidence intervals.md",
+                "file": "Confidence intervals (normal dist. one sample).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Confidence intervals.md",
+                "file": "Confidence intervals (normal dist. one sample).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Confidence intervals.md",
+                "file": "Confidence intervals (normal dist. one sample).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Confidence intervals.md"
+                "file": "Confidence intervals (normal dist. one sample).md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "active": "563b2d7c4bdbe362",
   "lastOpenFiles": [
     "Linear model regression.md",
+    "Confidence intervals (normal dist. one sample).md",
     "Anova.md",
     "Rescources/Pasted image 20221214080205.png",
     "Rescources/Pasted image 20221214081616.png"
