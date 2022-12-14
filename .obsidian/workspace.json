@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae69a6954773a7ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabitlity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md",
+                "file": "Probabitlity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md",
+                "file": "Probabitlity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md"
+                "file": "Probabitlity.md"
               }
             }
           }
@@ -161,10 +173,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "563b2d7c4bdbe362",
+  "active": "ae69a6954773a7ee",
   "lastOpenFiles": [
-    "Linear model regression.md",
+    "README.md",
+    "Probabitlity.md",
     "Confidence intervals (normal dist. one sample).md",
+    "Linear model regression.md",
     "Anova.md",
     "Rescources/Pasted image 20221214080205.png",
     "Rescources/Pasted image 20221214081616.png"
