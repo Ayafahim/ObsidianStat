@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md",
+                "file": "model regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md",
+                "file": "model regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md",
+                "file": "model regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md"
+                "file": "model regression.md"
               }
             }
           }
@@ -187,9 +187,9 @@
   },
   "active": "563b2d7c4bdbe362",
   "lastOpenFiles": [
+    "Confidence intervals (normal dist. one sample).md",
     "model regression.md",
     "Tests and p-values.md",
-    "Confidence intervals (normal dist. one sample).md",
     "Probabitlity.md",
     "Anova.md",
     "README.md",
