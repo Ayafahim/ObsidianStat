@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear model regression.md",
+                "file": "model regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Confidence intervals (normal dist. one sample).md",
+                "file": "model regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,11 +185,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ceef13829e5eef68",
+  "active": "563b2d7c4bdbe362",
   "lastOpenFiles": [
-    "Probabitlity.md",
-    "Linear model regression.md",
+    "model regression.md",
     "Confidence intervals (normal dist. one sample).md",
+    "Probabitlity.md",
     "Tests and p-values.md",
     "Anova.md",
     "README.md",
