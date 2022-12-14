@@ -1,3 +1,7 @@
+
+![[Pasted image 20221214143350.png]]
+
+
 # One sample/paired t-test
 
 ## Calculate t-value (tobs) and p-value
