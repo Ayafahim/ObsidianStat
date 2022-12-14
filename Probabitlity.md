@@ -1,6 +1,9 @@
 # Distributions
 
-1. $X^2$-distri
+ ## $X^2$-distribution  
+Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1.
+
+$X^2 = (n − 1)*S^2*σ^2$
 
 
 
