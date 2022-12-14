@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Linear model regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Linear model regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Linear model regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tests and p-values.md"
+                "file": "Linear model regression.md"
               }
             }
           }
@@ -187,6 +187,7 @@
   },
   "active": "ceef13829e5eef68",
   "lastOpenFiles": [
+    "Tests and p-values.md",
     "Probabitlity.md",
     "Anova.md",
     "Confidence intervals (normal dist. one sample).md",

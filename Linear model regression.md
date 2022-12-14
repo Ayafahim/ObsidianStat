@@ -22,7 +22,9 @@ df = n-2
 ## Find intercept t-value
 
 tobs = intercept estimate/ intercept std. error
-tobs = βˆ0/ σˆβ0 = 3.2433/0.5483 = 5.915.
+eks:
+tobs = $β0/ σ_β0 = 3.2433/0.5483 = 5.915.$
+
 
 
 ## Confidence intervals
