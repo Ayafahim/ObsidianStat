@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear model regression.md",
+                "file": "Probabitlity.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear model regression.md",
+                "file": "Probabitlity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear model regression.md",
+                "file": "Probabitlity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear model regression.md"
+                "file": "Probabitlity.md"
               }
             }
           }
@@ -187,9 +187,9 @@
   },
   "active": "ceef13829e5eef68",
   "lastOpenFiles": [
+    "Linear model regression.md",
     "Confidence intervals (normal dist. one sample).md",
     "Tests and p-values.md",
-    "Linear model regression.md",
     "Probabitlity.md",
     "Anova.md",
     "README.md",
