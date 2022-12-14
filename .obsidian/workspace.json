@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceef13829e5eef68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T-test and p-values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "T-test and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "T-test and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity.md"
+                "file": "T-test and p-values.md"
               }
             }
           }
@@ -173,12 +185,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae69a6954773a7ee",
+  "active": "ceef13829e5eef68",
   "lastOpenFiles": [
+    "Probabitlity.md",
     "Anova.md",
     "Confidence intervals (normal dist. one sample).md",
     "Linear model regression.md",
-    "Probabitlity.md",
     "README.md",
     "Rescources/Pasted image 20221214080205.png",
     "Rescources/Pasted image 20221214081616.png"
