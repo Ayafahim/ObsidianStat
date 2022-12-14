@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "c79de5b61f4d8316",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69864af4a6f3a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1da300cf0980da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "423dc57b318900f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear model regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "563b2d7c4bdbe362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confidence intervals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69d58d5dd15ff825",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f516374cf67c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "448a421491033a17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0599580d79c2543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a604adacd2b0025",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2a8b42647fc1eef",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ec8144fef2535a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf51e17f2efce6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Confidence intervals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c8878fb464d87a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Confidence intervals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed09fe2a123cce58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c46582be7f76e496",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Confidence intervals.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "563b2d7c4bdbe362",
+  "lastOpenFiles": [
+    "Linear model regression.md",
+    "Anova.md",
+    "Rescources/Pasted image 20221214080205.png",
+    "Rescources/Pasted image 20221214081616.png"
+  ]
+}
