@@ -1,3 +1,8 @@
+# Distributions
+
+1. $X^2$-distri
+
+
 
 # Different probability commands for over or under value:
 
@@ -29,5 +34,17 @@ pnorm(90, mean = 100, sd = 15)
 
 ## [1] 0.2524925
 ```
+
+
+## If a random sample of n = 10 independent observations is drawn from the population, what is the probability that the sample mean is below 90?
+
+![[Pasted image 20221214101927.png]]
+
+```R
+pnorm(90, mean = 100, sd = sqrt(22.5)) 
+
+## [1] 0.017507
+```
+
 
 
