@@ -72,7 +72,7 @@ t.test(x,y)
 HVIS, du fx ik har et at ledene fx det i kvadratrod, så isoler for at finde. 
 Eksempel:
 
- 95 percent confidence interval: [1.4316 3.2592]
+ 95 percent confidence interval: [1.4316 ; 3.2592]
 
 ![[Pasted image 20221215124134.png]]
 

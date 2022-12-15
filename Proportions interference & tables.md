@@ -89,3 +89,14 @@ opg eks
 
 Estimates er uafhængie af år så derfor tages for alle år.
 formel: phat=x/n
+
+# Estimate Sample Size for a proportion
+
+![[Pasted image 20221215124849.png]]
+
+Where ME = half of the expected width of CI
+fx:
+
+How many days does the experiment need to run in order to obtain a 95% confidence interval for the proportion of components to be discarded, which has an expected width of 5 percentage points?
+$ME = 0.05/2 = 0.025$
+
