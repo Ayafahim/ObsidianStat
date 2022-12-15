@@ -1,3 +1,6 @@
+## Normal dist. one sample
+
+
 ### Calculate percentiles
 ```R
 1-signifikans/2

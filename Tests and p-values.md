@@ -31,7 +31,16 @@ t.test(x, mu=7725)
 ## Z-statistic
 
 ```R
-
 zobs <- (mean(x) - mu) / (var(x) / sqrt(n))
 
-## ~
+## ~ N(0,1^2)
+```
+
+
+## 2 Samples independant 
+
+```R
+tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
+
+##df
+v <- (sd(x)^2/length(x) + sd(y)^2/length(y))/ s
