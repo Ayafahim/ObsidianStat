@@ -41,6 +41,9 @@ zobs <- (mean(x) - mu) / (var(x) / sqrt(n))
 
 ```R
 tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
+```
 
-##df
-v <- (sd(x)^2/length(x) + sd(y)^2/length(y))/ s
+### df
+![[Pasted image 20221215100058.png]]
+
+

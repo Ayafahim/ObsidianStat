@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Confidence intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Confidence intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Confidence intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tests and p-values.md"
+                "file": "Confidence intervals.md"
               }
             }
           }
@@ -199,8 +199,8 @@
   },
   "active": "83bb43cb1ca5a70f",
   "lastOpenFiles": [
-    "Confidence intervals.md",
     "Tests and p-values.md",
+    "Confidence intervals.md",
     "Distributions.md",
     "Probabitlity.md",
     "model regression.md",

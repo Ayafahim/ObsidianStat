@@ -1,5 +1,7 @@
-## Normal dist. one sample
+[[Tests and p-values]]  🌘
 
+
+## Normal dist. one sample
 
 ### Calculate percentiles
 ```R
