@@ -1,6 +1,14 @@
 
-## 2 sample proportion hypothesis test
+## Estimation of single proportions
 
+![[Pasted image 20221215122306.png]]
+
+Hvor p0 = sum af hele kolonne.
+
+
+
+
+## 2 sample proportion hypothesis test
 
 ![[Pasted image 20221215112656.png]]
 

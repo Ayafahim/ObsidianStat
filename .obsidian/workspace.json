@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Proportions & proportion interference.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Proportions & proportion interference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Proportions & proportion interference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity.md"
+                "file": "Proportions & proportion interference.md"
               }
             }
           }
@@ -199,14 +199,14 @@
   },
   "active": "20d985dfe1c0c3b0",
   "lastOpenFiles": [
+    "Confidence intervals and quantiles.md",
+    "Probabitlity.md",
     "model regression.md",
     "Summary statistics & miscellaneous.md",
-    "Confidence intervals and quantiles.md",
     "Rescources/Pasted image 20221215115049.png",
-    "Probabitlity.md",
     "Huskeregler.md",
     "Distributions.md",
-    "Proportion inference.md",
+    "Proportions & proportion interference.md",
     "Tests and p-values.md",
     "Rescources/README.md"
   ]

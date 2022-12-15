@@ -69,7 +69,25 @@ mean(x-y) + c(-1,1)*qt(p=0.995,df)*sqrt(sd(x)^2/length(x)-sd(y)^2/length(y))
 t.test(x,y)
 ```
 
-## Bootstrap CI
+## Parametric bootstrap CI
+
+![[Pasted image 20221215121920.png]]
+
+En R-kommando kan bruges hvis der er kørt en simulation og vi har koden:
+
+```R
+##Givet kode
+set.seed(7643) 
+k <- 10000 R1 <- rnorm(k, mean = 2, sd = 0.2) 
+R2 <- rnorm(k, mean = 3, sd = 0.5) 
+R <- 1/(1/R1 + 1/R2)
+
+## Tilføj kommando og find CI for fx 95%
+quantile(R, c(0.025,0.975))
+##   2.5%       97.5% 
+## 0.9647361  1.4016874
+```
+
 
 Eks:
 Using the results above and the book’s definition of percentiles (“type = 2” in R), which of the following is a 95% bootstrap confidence interval for the population mean?
