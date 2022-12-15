@@ -20,31 +20,7 @@
             }
           },
           {
-            "id": "423dc57b318900f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "model regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "563b2d7c4bdbe362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tests and p-values.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83bb43cb1ca5a70f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +173,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83bb43cb1ca5a70f",
+  "active": "563b2d7c4bdbe362",
   "lastOpenFiles": [
     "Tests and p-values.md",
     "Confidence intervals.md",

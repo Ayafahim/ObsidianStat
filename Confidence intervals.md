@@ -22,7 +22,7 @@ Allerede udregnet populære quantiles:
 mean()+ c(-1,1)*qt(p=0.995,df=n-1)*sd()/sqrt(n)
 ```
 
-## Confidence interval for std. deviation
+### Confidence interval for std. deviation
 
 Her skal man lave for begge ender. 
 Se eksempel: 
@@ -34,7 +34,7 @@ sqrt( (n-1)*sd()^2/qchisq(0.995, df = n-1) )
 sqrt( (n-1)*sd()^2/qchisq(0.005, df = n-1) )
 ```
 
-## Condfidence  interval for variance
+### Condfidence  interval for variance
 
 ```R
 ## for 90% 
@@ -43,4 +43,16 @@ sqrt( (n-1)*sd()^2/qchisq(0.005, df = n-1) )
 
 ((n-1)*sd()^2)/chisq(0,050,df=n-1)
 ```
+
+## 2 Sample
+
+### Confidence interval for difference in μ1 and μ2
+
+```R
+mean(x-y) + c(-1,1)*qt(p=0.995,df)*sqrt(sd(x)^2/length(x)-sd(y)^2/length(y))
+```
+
+remember df:
+
+![[Pasted image 20221215100058.png]]
 
