@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "83bb43cb1ca5a70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ae69a6954773a7ee",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tests and p-values.md",
+                "file": "Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tests and p-values.md"
+                "file": "Distributions.md"
               }
             }
           }
@@ -185,12 +197,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "563b2d7c4bdbe362",
+  "active": "83bb43cb1ca5a70f",
   "lastOpenFiles": [
-    "Confidence intervals (normal dist. one sample).md",
-    "Tests and p-values.md",
-    "Probabitlity.md",
     "model regression.md",
+    "Probabitlity.md",
+    "Distributions.md",
+    "Tests and p-values.md",
+    "Confidence intervals (normal dist. one sample).md",
     "Anova.md",
     "README.md",
     "Rescources/Pasted image 20221214080205.png",
