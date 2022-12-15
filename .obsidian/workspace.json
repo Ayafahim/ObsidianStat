@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model regression.md",
+                "file": "Probabitlity.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "model regression.md",
+                "file": "Probabitlity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "model regression.md",
+                "file": "Probabitlity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "model regression.md"
+                "file": "Probabitlity.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "20d985dfe1c0c3b0",
   "lastOpenFiles": [
+    "model regression.md",
     "Summary statistics & miscellaneous.md",
     "Confidence intervals and quantiles.md",
     "Rescources/Pasted image 20221215115049.png",
@@ -207,7 +208,6 @@
     "Distributions.md",
     "Proportion inference.md",
     "Tests and p-values.md",
-    "Rescources/README.md",
-    "Anova.md"
+    "Rescources/README.md"
   ]
 }

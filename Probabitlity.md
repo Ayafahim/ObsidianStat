@@ -5,6 +5,26 @@ Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1
 
 $X^2 = (n − 1)*S^2*σ^2$
 
+
+## R kommando forskelle
+
+```R
+#disse er for bogstaver p og q bar udskift norm med hvad end passer
+
+### if u want probability of something
+pnorm()
+## Hvis du har fået en sandsynelighed men skal kende værdien for noget med den.
+qnorm()
+## eks
+##There is a 20% probability of a randomly selected piece of rock from pile 2 being heavier than?
+
+##siden der er 20% hevier skal vi finde mindste værdien/resterende 80% så for 1-0.2 = 0.8
+qnorm(0.8, mean = 50, sd = 10)
+## [1] 58.41621
+### altså der er 20% sandsynlighed for at vælge en sten tungere 58.41621kg
+
+```
+
 # Different probability commands for over or under value:
 
 ```R
@@ -60,3 +80,6 @@ pnorm(90, mean = 100, sd = sqrt(22.5))
 ## Exp opg
 
 ![[Pasted image 20221215114722.png]]
+
+## Normal opg (What is the probability that a randomly selected piece from pile 1 weighs more than 25 kg?)
+![[Pasted image 20221215120851.png]]

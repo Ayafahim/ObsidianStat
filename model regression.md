@@ -7,6 +7,8 @@ Yi = dependant variable, random
 xi = explanetory variable. Given number
 εi = deviation (errors). random N(0,sigma^2)
 
+Husk hvis beta1 (altså hældningen) = 0 så er der ingen relation mellem de to variabler altså no association
+
 ### How to estimate β0 & β1 and inteperet R output
 
 ![[Pasted image 20221214084240.png]]
