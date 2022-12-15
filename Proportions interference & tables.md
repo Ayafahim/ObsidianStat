@@ -1,11 +1,44 @@
 
+
+## Comparing several groups
+HUSK!
+```R
+df = (row-1)*(column -1)
+```
+
+
+## Calculate expected number in cell under null-hypothesis
+
+![[Pasted image 20221215123228.png]]
+
+Eksempel med tabel fra eksempel med elever:
+
+Assuming independence between year and discipline, the expected number of newly enrolled students in TechNat in the year 2017 is estimated to be:
+
+![[Pasted image 20221215123446.png]]
+
+
 ## Estimation of single proportions
 
 ![[Pasted image 20221215122306.png]]
 
 Hvor p0 = sum af hele kolonne.
 
+### Eksempel
 
+Based on the numbers for 2017, one wants to test the hypothesis that the proportion of students newly enrolled in a technical or natural science bachelor education (TechNat) is 32.0%. The relevant test statistic for this hypothesis, which is assumed to be well approximated by a standard normal distribution, is?
+![[Pasted image 20221215122523.png]]
+
+Her er p0 = 30193 da vi skal kigge på alle elever startet i 2017.
+Hvor x = alle dem der startede i technat det år
+```R
+(10339 - 0.32 * 30193) / sqrt(30193 * 0.32 * 0.68)
+
+## mere generelt
+
+(x-n*p0)/sqrt(n * po * (1-po))
+
+```
 
 
 ## 2 sample proportion hypothesis test

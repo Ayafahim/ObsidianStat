@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proportions & proportion interference.md",
+                "file": "Proportions interference & tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions & proportion interference.md",
+                "file": "Proportions interference & tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions & proportion interference.md",
+                "file": "Proportions interference & tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions & proportion interference.md"
+                "file": "Proportions interference & tables.md"
               }
             }
           }
@@ -206,7 +206,7 @@
     "Rescources/Pasted image 20221215115049.png",
     "Huskeregler.md",
     "Distributions.md",
-    "Proportions & proportion interference.md",
+    "Proportions interference & tables.md",
     "Tests and p-values.md",
     "Rescources/README.md"
   ]
