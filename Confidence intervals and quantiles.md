@@ -1,4 +1,4 @@
-[[Tests and p-values]]  🌘
+[[Test statistics and p-values]]  🌘
 
 
 ## Quantiles
@@ -56,10 +56,10 @@ sqrt( (n-1)*sd(x)^2/qchisq(0.005, df = n-1) )
 
 t.test(diff)
 ```
-
-
+----
 
 ### Confidence interval for difference in μ1 and μ2 (indipendent)
+![[Pasted image 20221215123959.png]]
 
 ```R
 mean(x-y) + c(-1,1)*qt(p=0.995,df)*sqrt(sd(x)^2/length(x)-sd(y)^2/length(y))
@@ -68,6 +68,19 @@ mean(x-y) + c(-1,1)*qt(p=0.995,df)*sqrt(sd(x)^2/length(x)-sd(y)^2/length(y))
 
 t.test(x,y)
 ```
+
+HVIS, du fx ik har et at ledene fx det i kvadratrod, så isoler for at finde. 
+Eksempel:
+
+ 95 percent confidence interval: [1.4316 3.2592]
+
+![[Pasted image 20221215124134.png]]
+
+![[Pasted image 20221215124213.png]]
+
+
+------
+
 
 ## Parametric bootstrap CI
 

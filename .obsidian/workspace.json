@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Confidence intervals and quantiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Confidence intervals and quantiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Confidence intervals and quantiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions interference & tables.md"
+                "file": "Confidence intervals and quantiles.md"
               }
             }
           }
@@ -199,6 +199,8 @@
   },
   "active": "20d985dfe1c0c3b0",
   "lastOpenFiles": [
+    "Test statistics and p-values.md",
+    "Proportions interference & tables.md",
     "Confidence intervals and quantiles.md",
     "Probabitlity.md",
     "model regression.md",
@@ -206,8 +208,6 @@
     "Rescources/Pasted image 20221215115049.png",
     "Huskeregler.md",
     "Distributions.md",
-    "Proportions interference & tables.md",
-    "Tests and p-values.md",
     "Rescources/README.md"
   ]
 }

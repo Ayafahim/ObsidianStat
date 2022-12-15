@@ -1,3 +1,10 @@
+### Relationship between t-statistic and CI
+
+Answer from an exam:
+Method 7.22. The test statistic is greater than the given 0.95 quantile, so the null hypothesis of no difference between groups (no change across years) is rejected, and the change is concluded to be significant.
+
+Så altså hvis test ikke ligger i intervallet givet så afvises nul-hypotesen
+
 
 ![[Pasted image 20221214143350.png]]
 
