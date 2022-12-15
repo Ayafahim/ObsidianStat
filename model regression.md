@@ -57,3 +57,8 @@ beta0 + beta1 * xnew c(-1,1)*qt(p=0.95,df=n-2)*sigma*sqrt(1+(1/n)+(xnew-mean())^
 Sxx <- (n-1)*var(beta1)
 ```
 
+## Homogeneity i plots
+
+![[Pasted image 20221215125925.png]]
+
+Jo mere box agtige of ligeligt fordelt jo mere homogents så model1 nej men model2 ja.
