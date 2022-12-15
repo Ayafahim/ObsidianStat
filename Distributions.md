@@ -5,13 +5,18 @@ E[x] =  `n * p`  ;  v[x] = `n * p * (1-p)`
 
 ## Poisson
 
-## $X^2-distribution  
+## $X^2$-distribution  
 Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1.
 
 $X^2 = (n − 1)*S^2*σ^2$
 
+$X_a$ ; a = mean
+
 
 ## Exponiential
+
+exp(lamda)
+μ = $1/λ$
 
 ## Uniform Distribution
 
@@ -31,11 +36,21 @@ A random variable X follows a uniform distribution on the interval [0; 1]. The e
 The transformed variable is uniformly distributed on [8, 12] so by Eq. 2-52 and 2-53 the answer is: $µ = 1/2*(12 − 8) = 10$ and $σ^2 = 1/12*(12 − 8)*2 = 16 12 = 4 3$
 
 
-## $X^2$ 
+
 
 ## Normal
 
 ## T-dist.
 
 ## Hypergeometrisk 
+
+## Log dist.
+
+```R
+## hvis man vil se hvordan den ser ud til graf opg
+x <- rlnorm(100) 
+qqnorm(x) 
+qqline(x)
+
+```
 

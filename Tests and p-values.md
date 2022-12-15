@@ -57,3 +57,13 @@ tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
 ![[Pasted image 20221215100058.png]]
 
 
+# Opgaver
+
+## What statement is right? (signifikant difference?)
+
+![[Pasted image 20221215105118.png]]
+
+![[Pasted image 20221215105136.png]]
+
+
+
