@@ -55,10 +55,14 @@ tstat <- qt(0.9916667,57) = 2.466689
 2.466689*sqrt(2*74.97/20) = 6.753955 = 6.8
 ```
 
-Så der er signifikant forskel hvis der er over 6.8 ml forskel mellem gennemsint pr gruppe:
+Så der er signifikant forskel hvis der er over 6.8 ml forskel mellem gennemsnit pr gruppe:
 
 So we can use that to determine which of the three waiters will be tested significantly different in two-sample post hoc comparisons. We have information about the average for each waiter: 
 x¯A = 127 mL ; x¯B = 135 mL ;  x¯C = 136 mL from which we can see that A is significantly different from B and C, since their differences are higher than 7 mL, and that there is no significant difference between B and C.
 
+## quantile of F()
 
+```R
+qf(quantile,df1,df2)
 
+## df1 = df treatment & df2 = df residuals

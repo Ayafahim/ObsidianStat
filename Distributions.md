@@ -1,10 +1,14 @@
 
 ## Binominal
 
-See: [[Probabitlity]] 🌘
+E[x] =  `n * p`  ;  v[x] = `n * p * (1-p)`
 
 ## Poisson
-See: [[Probabitlity]] 🌘
+
+## $X^2-distribution  
+Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1.
+
+$X^2 = (n − 1)*S^2*σ^2$
 
 
 ## Exponiential

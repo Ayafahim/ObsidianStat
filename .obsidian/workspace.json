@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anova.md",
+                "file": "Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anova.md",
+                "file": "Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anova.md",
+                "file": "Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anova.md"
+                "file": "Distributions.md"
               }
             }
           }
@@ -175,13 +175,13 @@
   },
   "active": "563b2d7c4bdbe362",
   "lastOpenFiles": [
-    "Confidence intervals.md",
     "Probabitlity.md",
-    "Rescources/Pasted image 20221215102910.png",
+    "Distributions.md",
+    "Confidence intervals.md",
     "Anova.md",
+    "Rescources/Pasted image 20221215102910.png",
     "model regression.md",
     "Tests and p-values.md",
-    "Distributions.md",
     "README.md",
     "Rescources/Pasted image 20221214080205.png",
     "Rescources/Pasted image 20221214081616.png"
