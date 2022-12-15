@@ -5,12 +5,6 @@ Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1
 
 $X^2 = (n − 1)*S^2*σ^2$
 
-## Binominal 
-
-
-
-
-
 # Different probability commands for over or under value:
 
 ```R
@@ -54,4 +48,15 @@ pnorm(90, mean = 100, sd = sqrt(22.5))
 ```
 
 
+## Poisson opg
 
+![[Pasted image 20221215114608.png]]
+
+
+
+
+
+
+## Exp opg
+
+![[Pasted image 20221215114722.png]]

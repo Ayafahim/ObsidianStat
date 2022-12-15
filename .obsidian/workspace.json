@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity.md"
+                "file": "Summary statistics & miscellaneous.md"
               }
             }
           }
@@ -199,15 +199,15 @@
   },
   "active": "20d985dfe1c0c3b0",
   "lastOpenFiles": [
-    "Confidence intervals.md",
+    "Confidence intervals and quantiles.md",
+    "Pasted image 20221215115049.png",
+    "Summary statistics & miscellaneous.md",
+    "Probabitlity.md",
     "Huskeregler.md",
     "Distributions.md",
     "Proportion inference.md",
     "Tests and p-values.md",
     "Rescources/README.md",
-    "Probabitlity.md",
-    "Anova.md",
-    "Rescources/Pasted image 20221215102910.png",
-    "model regression.md"
+    "Anova.md"
   ]
 }
