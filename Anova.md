@@ -2,7 +2,8 @@
 ## R interpertation 
 ![[Pasted image 20221214081622.png]]
 
-MSE = Mean sq :: Residuals
+![[Pasted image 20221215101906.png]]
+
 
 ## Post hoc hypthesis test
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Confidence intervals.md",
+                "file": "Anova.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Confidence intervals.md",
+                "file": "Anova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Confidence intervals.md",
+                "file": "Anova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Confidence intervals.md"
+                "file": "Anova.md"
               }
             }
           }
@@ -175,11 +175,11 @@
   },
   "active": "563b2d7c4bdbe362",
   "lastOpenFiles": [
-    "Tests and p-values.md",
     "Confidence intervals.md",
+    "model regression.md",
+    "Tests and p-values.md",
     "Distributions.md",
     "Probabitlity.md",
-    "model regression.md",
     "Anova.md",
     "README.md",
     "Rescources/Pasted image 20221214080205.png",

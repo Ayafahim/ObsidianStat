@@ -36,7 +36,7 @@ zobs <- (mean(x) - mu) / (var(x) / sqrt(n))
 ## ~ N(0,1^2)
 ```
 
-## 2 sample welch test/paired
+## 2 sample paired
 ### df
 
 ```R
@@ -47,7 +47,7 @@ tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
 
 
 
-## 2 Samples independant 
+## 2 Samples independant/welch test
 
 ```R
 tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))

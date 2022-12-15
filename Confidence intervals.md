@@ -46,10 +46,23 @@ sqrt( (n-1)*sd()^2/qchisq(0.005, df = n-1) )
 
 ## 2 Sample
 
-### Confidence interval for difference in μ1 and μ2
+## CI for paired t-test (mean)
+```R
+##take diff of both sample means
+
+t.test(diff)
+```
+
+
+
+### Confidence interval for difference in μ1 and μ2 (indipendent)
 
 ```R
 mean(x-y) + c(-1,1)*qt(p=0.995,df)*sqrt(sd(x)^2/length(x)-sd(y)^2/length(y))
+
+## or welch
+
+t.test(x,y)
 ```
 
 remember df:
