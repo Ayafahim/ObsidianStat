@@ -68,6 +68,36 @@
             }
           },
           {
+            "id": "a51fb4dc22e4055c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Rescources/Pasted image 20221215125613.png"
+              }
+            }
+          },
+          {
+            "id": "fa40292e08d74fb3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Rescources/Pasted image 20221215125925.png"
+              }
+            }
+          },
+          {
+            "id": "b6ccbbad1375eb29",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Rescources/Pasted image 20221215130145.png"
+              }
+            }
+          },
+          {
             "id": "ae69a6954773a7ee",
             "type": "leaf",
             "state": {
@@ -92,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anova.md",
+                "file": "Rescources/Pasted image 20221215130145.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anova.md",
+                "file": "Rescources/Pasted image 20221215130145.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anova.md"
+                "file": "Rescources/Pasted image 20221215130145.png"
               }
             }
           }
@@ -209,17 +239,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b98c3b2a756edc8",
+  "active": "448a421491033a17",
   "lastOpenFiles": [
+    "Rescources/Pasted image 20221215125925.png",
+    "Rescources/Pasted image 20221215125613.png",
+    "Anova.md",
     "Summary statistics & miscellaneous.md",
     "model regression.md",
     "Power.t.test.md",
     "Proportions interference & tables.md",
     "Confidence intervals and quantiles.md",
     "Test statistics and p-values.md",
-    "Probabitlity.md",
-    "Rescources/Pasted image 20221215115049.png",
-    "Huskeregler.md",
-    "Distributions.md"
+    "Probabitlity.md"
   ]
 }
