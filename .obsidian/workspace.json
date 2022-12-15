@@ -91,9 +91,11 @@
             "id": "b6ccbbad1375eb29",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Rescources/Pasted image 20221215130145.png"
+                "file": "Probabitlity.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rescources/Pasted image 20221215130145.png",
+                "file": "Probabitlity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rescources/Pasted image 20221215130145.png",
+                "file": "Probabitlity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rescources/Pasted image 20221215130145.png"
+                "file": "Probabitlity.md"
               }
             }
           }
@@ -239,8 +241,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448a421491033a17",
+  "active": "b6ccbbad1375eb29",
   "lastOpenFiles": [
+    "Rescources/Pasted image 20221215130145.png",
     "Rescources/Pasted image 20221215125925.png",
     "Rescources/Pasted image 20221215125613.png",
     "Anova.md",
@@ -249,7 +252,6 @@
     "Power.t.test.md",
     "Proportions interference & tables.md",
     "Confidence intervals and quantiles.md",
-    "Test statistics and p-values.md",
-    "Probabitlity.md"
+    "Test statistics and p-values.md"
   ]
 }
