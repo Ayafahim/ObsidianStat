@@ -1,6 +1,10 @@
 [[Tests and p-values]]  🌘
 
 
+## Quantiles
+![[Pasted image 20221215113931.png]]
+
+
 ## Normal dist. one sample
 
 ### Calculate percentiles
@@ -64,6 +68,17 @@ mean(x-y) + c(-1,1)*qt(p=0.995,df)*sqrt(sd(x)^2/length(x)-sd(y)^2/length(y))
 
 t.test(x,y)
 ```
+
+## Bootstrap CI
+
+Eks:
+Using the results above and the book’s definition of percentiles (“type = 2” in R), which of the following is a 95% bootstrap confidence interval for the population mean?
+
+![[Pasted image 20221215114147.png]]
+
+
+
+
 
 remember df:
 
