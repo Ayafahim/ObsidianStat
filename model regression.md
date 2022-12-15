@@ -30,7 +30,6 @@ tobs = $β0/ σ_β0 = 3.2433/0.5483 = 5.915.$
 ## Confidence intervals
 
 ```R
-
 ###confidence interval for the mean###
 ##1-signifikans/2
 ##fx. for 99% interval er sig = 0.01
@@ -40,4 +39,19 @@ tobs = $β0/ σ_β0 = 3.2433/0.5483 = 5.915.$
 b0 + c(-1,1)*qt(p=0.995,df=n-2)*std.error_b0
 ## or
 b1 + c(-1,1)*qt(p=0.995,df=n-2)*std.error_b1
+
+```
+
+## Prediction intervals
+
+![[Pasted image 20221215120053.png]]
+
+```R
+## 90% 
+beta0 + beta1 * xnew c(-1,1)*qt(p=0.95,df=n-2)*sigma*sqrt(1+(1/n)+(xnew-mean())^2/Sxx)
+
+##where
+
+Sxx <- (n-1)*var(beta1)
+```
 
