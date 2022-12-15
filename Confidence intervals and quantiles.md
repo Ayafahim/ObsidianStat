@@ -39,13 +39,13 @@ sqrt( (n-1)*sd(x)^2/qchisq(0.005, df = n-1) )
 ```
 
 ### Condfidence  interval for variance
-
+![[Pasted image 20221215193522.png]]
 ```R
 ## for 90% 
 ## samme med to ender gøres li som i std. deviation
-((n-1)*sd()^2)/chisq(0,950,df=n-1)
+((n-1)*sd()^2)/chisq(0.950,df=n-1)
 
-((n-1)*sd()^2)/chisq(0,050,df=n-1)
+((n-1)*sd()^2)/chisq(0.050,df=n-1)
 ```
 
 ## 2 Sample

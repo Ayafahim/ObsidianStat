@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model regression.md",
+                "file": "Confidence intervals and quantiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "model regression.md",
+                "file": "Confidence intervals and quantiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "model regression.md",
+                "file": "Confidence intervals and quantiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "model regression.md"
+                "file": "Confidence intervals and quantiles.md"
               }
             }
           }
@@ -243,15 +243,15 @@
   },
   "active": "9b98c3b2a756edc8",
   "lastOpenFiles": [
-    "Anova.md",
     "Test statistics and p-values.md",
+    "Confidence intervals and quantiles.md",
+    "model regression.md",
+    "Anova.md",
     "Proportions interference & tables.md",
     "Distributions.md",
     "Probabitlity.md",
     "Rescources/Pasted image 20221215130145.png",
     "Rescources/Pasted image 20221215125925.png",
-    "Rescources/Pasted image 20221215125613.png",
-    "Summary statistics & miscellaneous.md",
-    "model regression.md"
+    "Rescources/Pasted image 20221215125613.png"
   ]
 }
