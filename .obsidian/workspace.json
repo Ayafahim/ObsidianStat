@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Proportions interference & tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Proportions interference & tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Proportions interference & tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test statistics and p-values.md"
+                "file": "Proportions interference & tables.md"
               }
             }
           }
@@ -243,6 +243,7 @@
   },
   "active": "b6ccbbad1375eb29",
   "lastOpenFiles": [
+    "Test statistics and p-values.md",
     "Distributions.md",
     "Probabitlity.md",
     "Rescources/Pasted image 20221215130145.png",
@@ -251,7 +252,6 @@
     "Anova.md",
     "Summary statistics & miscellaneous.md",
     "model regression.md",
-    "Power.t.test.md",
-    "Proportions interference & tables.md"
+    "Power.t.test.md"
   ]
 }
