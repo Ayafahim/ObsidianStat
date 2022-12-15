@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Proportions interference & tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Proportions interference & tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Proportions interference & tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity.md"
+                "file": "Proportions interference & tables.md"
               }
             }
           }
@@ -243,6 +243,7 @@
   },
   "active": "9b98c3b2a756edc8",
   "lastOpenFiles": [
+    "Probabitlity.md",
     "Power.t.test.md",
     "Confidence intervals and quantiles.md",
     "Test statistics and p-values.md",
@@ -250,7 +251,6 @@
     "Anova.md",
     "Proportions interference & tables.md",
     "Distributions.md",
-    "Probabitlity.md",
     "Rescources/Pasted image 20221215130145.png",
     "Rescources/Pasted image 20221215125925.png"
   ]

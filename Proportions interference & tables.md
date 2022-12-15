@@ -77,7 +77,7 @@ Do a chi-square test
 ```R
 data <- matrix(c(data for alle colums), ncol) 
 chisq.test(data)
-## se p-værdi o samlign med signifikans-level
+## se p-værdi og samlign med signifikans-level
 ```
 
 # What is estimated proportion
