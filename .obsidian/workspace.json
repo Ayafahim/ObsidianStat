@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Anova.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Anova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Anova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary statistics & miscellaneous.md"
+                "file": "Anova.md"
               }
             }
           }
@@ -211,13 +211,13 @@
   },
   "active": "9b98c3b2a756edc8",
   "lastOpenFiles": [
+    "Summary statistics & miscellaneous.md",
     "model regression.md",
     "Power.t.test.md",
     "Proportions interference & tables.md",
     "Confidence intervals and quantiles.md",
     "Test statistics and p-values.md",
     "Probabitlity.md",
-    "Summary statistics & miscellaneous.md",
     "Rescources/Pasted image 20221215115049.png",
     "Huskeregler.md",
     "Distributions.md"

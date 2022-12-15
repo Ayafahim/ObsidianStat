@@ -1,3 +1,5 @@
+![[Pasted image 20221215132749.png]]
+
 
 ## R interpertation 
 
@@ -7,6 +9,9 @@
 
 ## F-statistic
 ![[Pasted image 20221215102910.png]]
+
+![[Pasted image 20221215133040.png]]
+So MSE = Sigmahat
 
 ```R
 fobs <- (SS(Tr)/(k-1))/(SSE/(n-1))
@@ -61,6 +66,9 @@ So we can use that to determine which of the three waiters will be tested signif
 x¯A = 127 mL ; x¯B = 135 mL ;  x¯C = 136 mL from which we can see that A is significantly different from B and C, since their differences are higher than 7 mL, and that there is no significant difference between B and C.
 
 ## quantile of F()
+
+![[Pasted image 20221215132854.png]]
+
 
 ```R
 qf(quantile,df1,df2)
