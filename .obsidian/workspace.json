@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "b16422bf6cbb5759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b6ccbbad1375eb29",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -231,8 +243,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78bd57e19e202598",
+  "active": "b16422bf6cbb5759",
   "lastOpenFiles": [
+    "Plots.md",
     "Distributions.md",
     "Model regression.md",
     "Huskeregler.md",
@@ -241,7 +254,6 @@
     "Rescources/Pasted image 20221216185744.png",
     "Summary statistics & miscellaneous.md",
     "conflict-files-obsidian-git.md",
-    "Power.t.test.md",
-    "Test statistics and p-values.md"
+    "Power.t.test.md"
   ]
 }
