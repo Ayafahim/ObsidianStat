@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Anova.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Anova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Anova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Anova.md"
               }
             }
           }
@@ -183,13 +183,13 @@
   },
   "active": "b0f877703314f665",
   "lastOpenFiles": [
-    "Anova.md",
     "Distributions.md",
-    "Plots.md",
-    "conflict-files-obsidian-git.md",
-    "model regression.md",
-    "Probabitlity & Simulation.md",
     "Confidence intervals and quantiles.md",
+    "model regression.md",
+    "conflict-files-obsidian-git.md",
+    "Anova.md",
+    "Plots.md",
+    "Probabitlity & Simulation.md",
     "Pasted image 20221216182928.png",
     "Pasted image 20221216183028.png",
     "Pasted image 20221216183030.png"
