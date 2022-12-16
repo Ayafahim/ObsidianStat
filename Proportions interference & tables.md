@@ -186,3 +186,5 @@ sigmahat <- sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
 (phat1-phat2) + c(1,-1) * qnorm(0.995) * sigmahat
 
 ```
+
+# Standard error in Method
