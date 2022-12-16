@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac5f698b4a9e7ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test statistics and p-values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions interference & tables.md"
+                "file": "Test statistics and p-values.md"
               }
             }
           }
@@ -136,16 +149,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf1d19daf9d3a8ba",
+  "active": "448a421491033a17",
   "lastOpenFiles": [
+    "Proportions interference & tables.md",
+    "conflict-files-obsidian-git.md",
     "Anova.md",
     "Confidence intervals and quantiles.md",
-    "Proportions interference & tables.md",
     "Distributions.md",
     "Rescources/Pasted image 20221216171755.png",
     "Rescources/Pasted image 20221216171826.png",
     "Test statistics and p-values.md",
-    "conflict-files-obsidian-git.md",
     "model regression.md",
     "Rescources/Pasted image 20221215125925.png"
   ]

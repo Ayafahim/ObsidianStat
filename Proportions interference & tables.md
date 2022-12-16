@@ -113,12 +113,15 @@ prop.test(c(x1,x2), c(n1,n2), correct = FALSE)
 
 ```
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> origin/main
 # Test for no change in distribution
 
 Do a chi-square test
@@ -187,4 +190,10 @@ sigmahat <- sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
 
 ```
 
-# Standard error in Method
+
+
+# Phat estimation for 2 propotions 
+
+![[Pasted image 20221216181626.png]]
+
+
