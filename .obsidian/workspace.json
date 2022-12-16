@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions interference & tables.md"
+                "file": "Test statistics and p-values.md"
               }
             }
           }
@@ -269,9 +269,9 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Proportions interference & tables.md",
     "Confidence intervals and quantiles.md",
     "Anova.md",
-    "Proportions interference & tables.md",
     "Probabitlity & Simulation.md",
     "Power.t.test.md",
     "Pooled variance.md",
