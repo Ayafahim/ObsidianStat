@@ -6,27 +6,14 @@ Non-parametric bootstrap: simulate multiple samples directly from the data
 
 # Distributions examples
 
-## $X^2-distribution$  
 
-## Possion
+
+# Possion
 ![[Pasted image 20221216113425.png]]
 
 
 
 
-## Standard normal distribution
-![[Pasted image 20221216111104.png]]
-
-```R
-##Siden std normal dist. N ~ 
-k <- 1000000 
-x1 <- rnorm(k,0,1) 
-x2 <- rnorm(k,0,1)
-
-### formel for Y
-sd(exp(x1) + x2^4 + x1*x2) 
-## [1] 10.05853
-```
 
 
 ## R kommando forskelle
@@ -108,7 +95,7 @@ R-kode
 
 # Propagation of error
 
-## The non-linear approximative error propagation rule
+# The non-linear approximative error propagation rule
 
 ![[Pasted image 20221216093015.png]]
 
@@ -127,7 +114,7 @@ $9x^4*σ_1^2+25*σ_2^2$
 
 
 
-## Poisson opg
+# Poisson opg
 
 ![[Pasted image 20221215114608.png]]
 
@@ -142,3 +129,38 @@ $9x^4*σ_1^2+25*σ_2^2$
 
 ## Normal opg (What is the probability that a randomly selected piece from pile 1 weighs more than 25 kg?)
 ![[Pasted image 20221215120851.png]]
+
+# You buy 100 R1 resistors - which can be assumed to be independent of each other. What is the probability that none of these has a resistance below 3 ohms?
+![[Pasted image 20221216171755.png]]
+![[Pasted image 20221216171826.png]]
+
+# Calculate an estimate of sd of the total XX for a model
+
+## Example 1:
+Assume that R1 ∼ N(4, 0.2) and R2 ∼ N(2, 0.2).
+
+```R
+k <- 1000000 
+## de to variabler i modellen
+R1 <- rnorm(k, mean=4, sd=sqrt(0.2)) 
+R2 <- rnorm(k, mean=2, sd=sqrt(0.2)) 
+
+##Husk at skrive modellen som du har fået
+R <- 1 / (1/R1 + 1/R2) 
+
+#udregn sd baseret på simuleringer af modellen
+sd(R)
+```
+
+## Example 2:
+![[Pasted image 20221216111104.png]]
+
+```R
+##Siden std normal dist. N ~ 
+k <- 1000000 
+x1 <- rnorm(k,0,1) 
+x2 <- rnorm(k,0,1)
+
+### formel for Y
+sd(exp(x1) + x2^4 + x1*x2) 
+## [1] 10.05853

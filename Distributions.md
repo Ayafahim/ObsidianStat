@@ -36,8 +36,6 @@ Da lamda = mu så ville man tænke svar 1 men husk at omregne til enhed hvis det
 
 
 
-
-
 ## Uniform Distribution
 
 Formula
@@ -59,13 +57,12 @@ The transformed variable is uniformly distributed on [8, 12] so by Eq. 2-52 and 
 
 ## Normal Distribution
 
-### Standard Normal Distribution
+### Standard Normal Distribution/ z-dist.
 
 Standard normal distrubtion always have mean 0 and sd = variance = 1
 
 ![[Pasted image 20221216110058.png]]
 
-## T-dist.
 
 ## Hypergeometrisk 
 

@@ -11,13 +11,9 @@ Så altså hvis test ikke ligger i intervallet givet så afvises nul-hypotesen
 
 When p-value is above sig. level h0 is accepted
 
-# One sample t-dist.
-
-## Calculate t-value (tobs) and p-value
-
+# Test-statistics
 ```R
-##t-statistic
-
+## one sample t-dist, for hypothesis
 tobs <- (mean(x) - mu) / (sd(x) / sqrt(n))
 
 ### tobs with R
@@ -25,25 +21,57 @@ tobs <- (mean(x) - mu) / (sd(x) / sqrt(n))
 
 qt(quantile = 0.995,df = 24)
 
-## p-value
-
-2*(1-pt(abs(tobs),df))
-## df = n-1
-
-## or do t.test that calculates everything:
-
 t.test(x, mu=7725)
-
 ##husk mu er den mu for nul-hypotesen (mu = 0 by default)
-```
 
-## Z-statistic
+###Normal dist z-stat
+##### ~ N(0,1^2)
 
-```R
+#R
+qnorm(quantile)
+
+##uden R
 zobs <- (mean(x) - mu) / (var(x) / sqrt(n))
 
-## ~ N(0,1^2)
+
+
+##Chi-square test statistic
+df = (r-1)*(c-1)
+qchisq(quantile = 0.995,df)
+
+## or do test
+data <- matrix(c(11,27,15,14,40,30,5,23,35), ncol = 3, byrow =TRUE) 
+chi <- chisq.test(training, correct = FALSE) 
+chi
+
+##F-dist (ANOVA)
+##fobs = test statistic
+
+## k = antal grupper, n = antal observationer i alt.
+
+### fobs
+qf(quantile,df1 = k-1 ,df2 = n-k)
+## df1 = df treatment & df2 = df residuals
+
 ```
+
+## P-values
+
+```R
+## p-value t-dist
+### df = n-1
+
+2*(1-pt(abs(tobs),df))
+
+##chi-square
+1-pchisq(10.985,df))
+
+
+##f-dist (ANOVA)
+1 - pf(fobs, k-1, n-k)
+
+```
+
 
 ## 2 sample paired
 ### df
