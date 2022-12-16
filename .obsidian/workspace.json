@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Confidence intervals and quantiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Confidence intervals and quantiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Confidence intervals and quantiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test statistics and p-values.md"
+                "file": "Confidence intervals and quantiles.md"
               }
             }
           }
@@ -269,9 +269,9 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Test statistics and p-values.md",
     "Proportions interference & tables.md",
     "Probabitlity & Simulation.md",
-    "Test statistics and p-values.md",
     "Confidence intervals and quantiles.md",
     "Distributions.md",
     "model regression.md",
