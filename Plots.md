@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+# Q-Q plot 
+Husk: Use q-q plot on residuals to check the normality assumption. If the residuals are close the the line its apperas not deviate from normality
+![[Pasted image 20221216182823.png]]
+
+
+=======
+>>>>>>> origin/main
 
 # Plots for diff distributions
 
@@ -35,3 +43,4 @@
 ![[Pasted image 20221216183032.png]]
 
 # Uniform distribution graph
+![[Pasted image 20221216191305.png]]

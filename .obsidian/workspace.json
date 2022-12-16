@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "model regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6f0af50820c57dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,13 +35,12 @@
             "id": "a0be2d592f981f90",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20221216182928.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "std. ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity & Simulation.md"
+                "file": "Distributions.md"
               }
             }
           }
@@ -147,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d1aa8c72d88cf6d",
+  "active": "d6f0af50820c57dd",
   "lastOpenFiles": [
-    "model regression.md",
-    "Plots.md",
+    "conflict-files-obsidian-git.md",
     "Distributions.md",
+    "Plots.md",
+    "model regression.md",
+    "Probabitlity & Simulation.md",
     "Confidence intervals and quantiles.md",
     "Pasted image 20221216182928.png",
     "Pasted image 20221216183028.png",
     "Pasted image 20221216183030.png",
-    "Pasted image 20221216183032.png",
-    "conflict-files-obsidian-git.md",
-    "Probabitlity & Simulation.md"
+    "Pasted image 20221216183032.png"
   ]
 }

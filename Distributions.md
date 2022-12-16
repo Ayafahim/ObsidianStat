@@ -66,6 +66,18 @@ Standard normal distrubtion always have mean 0 and sd = variance = 1
 
 
 ## Hypergeometrisk 
+A distrubution is hypergeometrisk when there is no " laying back" (tilbagelægning) fx, when you draw random cards.
+![[Pasted image 20221216191408.png]]
+
+![[Pasted image 20221216192733.png]]
+
+```R
+dhyper(x = SomeValue, m = SomeValue, n = SomeValue, k = SomeValue)
+## x = Number of draws without replacement
+## m = Number of success left
+## n = Number of failures left
+## k = Number of draws from the urn  
+```
 
 ## Log dist.
 
