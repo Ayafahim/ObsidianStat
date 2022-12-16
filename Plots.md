@@ -24,3 +24,5 @@
 
 ![[Pasted image 20221216112413.png]]
 
+# PDF (probability density function) vs CDF cumulative distribution function
+## PDF

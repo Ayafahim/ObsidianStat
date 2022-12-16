@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributions.md",
+                "file": "Plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniform",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributions.md",
+                "file": "Plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributions.md",
+                "file": "Plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributions.md"
+                "file": "Plots.md"
               }
             }
           }
@@ -150,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0be2d592f981f90",
+  "active": "448a421491033a17",
   "lastOpenFiles": [
+    "Probabitlity & Simulation.md",
+    "Power.t.test.md",
+    "Confidence intervals and quantiles.md",
+    "Distributions.md",
     "model regression.md",
     "2022-12-16.md",
-    "Probabitlity & Simulation.md",
-    "Confidence intervals and quantiles.md",
     "conflict-files-obsidian-git.md",
     "Anova.md",
-    "Distributions.md",
     "Plots.md",
-    "Pooled variance.md",
-    "Power.t.test.md"
+    "Pooled variance.md"
   ]
 }
