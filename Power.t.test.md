@@ -49,3 +49,5 @@ power.t.test(delta=4, sd=5.0, sig.level=0.01, power=0.8)$n
 ## Fra facit: which rounded up means that there must be 39 pigs in each group and thus in total there must be 78 pigs included in the experiment.
 ```
 
+# Opg med konklusion
+![[Pasted image 20221216192712.png]]
