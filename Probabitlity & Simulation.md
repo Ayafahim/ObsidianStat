@@ -40,7 +40,7 @@ qnorm(0.8, mean = 50, sd = 10)
 
 ```
 
-# Different probability commands for over or under value: #
+# Different probability commands for over or under value: #probability 
 
 ```R
 #These are examples, switch out the command with rigth distribution

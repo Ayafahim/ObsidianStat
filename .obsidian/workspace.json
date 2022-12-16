@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "83839827fa3c69d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabitlity & Simulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa40292e08d74fb3",
             "type": "leaf",
             "state": {
@@ -63,6 +51,14 @@
               "state": {
                 "file": "Rescources/Pasted image 20221215125925.png"
               }
+            }
+          },
+          {
+            "id": "c7853986c059a02f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -102,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity & Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity & Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Probabitlity & Simulation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -219,17 +211,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83839827fa3c69d1",
+  "active": "448a421491033a17",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Rescources/Pasted image 20221216174551.png",
+    "Rescources/Pasted image 20221215125925.png",
     "Probabitlity & Simulation.md",
     "Ting der mangler.md",
+    "conflict-files-obsidian-git.md",
     "Summary statistics & miscellaneous.md",
     "Confidence intervals and quantiles.md",
     "Distributions.md",
     "model regression.md",
-    "Huskeregler.md",
-    "Test statistics and p-values.md",
-    "Proportions interference & tables.md"
+    "Huskeregler.md"
   ]
 }
