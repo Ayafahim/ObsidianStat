@@ -9,6 +9,8 @@ df = (row-1)*(column -1)
 
 ## Calculate expected number in cell under null-hypothesis
 
+## Uden at plotte data i R
+
 ![[Pasted image 20221215123228.png]]
 
 Eksempel med tabel fra eksempel med elever:
@@ -19,11 +21,46 @@ Assuming independence between year and discipline, the expected number of newly 
 
 ```R
 c_total <- 22+15
-g_Total <-18+11+22+9+38+ 36+ 15+ 12
 r_total <-18+11+22+9
+g_Total <-18+11+22+9+38+ 36+ 15+ 12
 
 (c_total * r_total)/g_Total
 ```
+
+## Med R
+
+```R
+#Plot tabel
+mat <- matrix(c(24, 21, 14, 
+				12, 15, 22, 
+				15, 26, 24), ncol = 3, byrow = TRUE) 
+				
+colnames(mat) <- c("Low","Medium","High") 
+rownames(mat) <- c("A","B","C")
+
+## What is the expected value of counts in the ”Medium” rating category for product ”B” under the null hypothesis?
+
+# Write the table in R mat 
+
+## Low Medium High 
+## A 24 21 14 
+## B 12 15 22 
+## C 15 26 24 
+# The number of observations 
+(n <- sum(mat)) 
+## [1] 173 
+# The expected counts under H0 
+fit$expected["B","Medium"] 
+
+## [1] 17.6 
+# or 
+
+margin.table(mat, 1)["B"] * margin.table(mat, 2)["Medium"] / n 
+##  B 
+## 17.6
+
+```
+
 
 ## Test statistic for  zobs
 
@@ -48,7 +85,7 @@ Hvor x = alle dem der startede i technat det år
 ```
 
 
-## estatimate for single proportion and  confidence interval
+## Estatimate for single proportion and  confidence interval
 
 ![[Pasted image 20221215112656.png]]
 
@@ -99,7 +136,7 @@ zobs <- (phat1-phat2)/sqrt(phat*(1-phat)*(1/n1+1/2))
 
 ```
 
-# Prop.test and Confidence interval
+#  CI for the proportion med prop.test
 
 ![[Pasted image 20221215112444.png]]
 
@@ -199,7 +236,8 @@ sigmahat <- sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
 
 
 
-# Investigate difference in on proportion in multiple groups 
+# Investigate difference in on proportion in multiple groups or outcome of null hypothesis
+
 ![[Pasted image 20221216182950.png]]
 
 ```R

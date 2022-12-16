@@ -6,7 +6,9 @@
 ## The formula 
 zb <- qnorm(0.9) 
 za <- qnorm(1-0.05/2) 
-delta <- 2 sigma <- 3.5 (sigma * (zb+za)/delta)^2
+delta <- -0.05 
+sigma <- 3.5 
+(sigma * (zb+za)/delta)^2
 
 ```
 

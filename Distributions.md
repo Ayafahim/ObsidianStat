@@ -61,6 +61,10 @@ The transformed variable is uniformly distributed on [8, 12] so by Eq. 2-52 and 
 ![[Pasted image 20221216185255.png]]
 
 The probability is always 1 with an uniform distrubution. The probability is the same. 
+
+![[Pasted image 20221216210728.png]]
+
+
 ## Normal Distribution
 
 ### Standard Normal Distribution/ z-dist.

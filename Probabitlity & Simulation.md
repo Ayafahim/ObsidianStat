@@ -43,16 +43,23 @@ qnorm(0.8, mean = 50, sd = 10)
 #These are examples, switch out the command with rigth distribution
 
 ## P(X <= 5)
+## max 5 inkl 5
 pbinom(5,10,0.6)
 
 ## P(X < 5)
+## husk at trække 1 fra hva du vil have
+### max 4
 pbinom(4,10,0.6)
 
 ## P(X > 4)
+
+## mindst 4
 1 - pbinom(4,10,0.6)
 
 ## P(X = 5)
 pbinom(5,10,0.6) - pbinom(4,10,0.6)
+## eller d da d giver præcis
+dbinom(5,10,0.6)
 
 ```
 

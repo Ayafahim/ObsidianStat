@@ -16,7 +16,12 @@ When p-value is above sig. level h0 is accepted
 # Test-statistics
 ```R
 ## one sample t-dist, for hypothesis
-tobs <- (mean(x) - mu) / (sd(x) / sqrt(n))
+
+n <-
+x <-
+sd <-
+mu <-
+tobs <- (x - mu) / (sd / sqrt(n))
 
 ### tobs with R
 # 99% quantile
@@ -79,7 +84,12 @@ qf(quantile,df1 = k-1 ,df2 = n-k)
 ### df = n-1 hvor n er observationer for en gruppe
 
 ```R
-tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
+
+n <-
+x <-
+sd <-
+mu <-
+tobs <- (x - mu) / (sd / sqrt(n))
 ```
 
 
@@ -87,8 +97,28 @@ tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
 
 ## 2 Samples independant/welch test
 
+## If equal variance is assumed
+
+
+![[Pasted image 20221217000109.png]]
+Se [[Pooled stuff]] for R-kode
+
+### Eksempel
+Assuming equal variance in the two groups, what is the usual test statistics for the test H0 : µ1 = µ2 against the two-sided alternative?
+![[Pasted image 20221217000346.png]]
+
+
+
 ```R
-tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
+x <-
+y <-
+h0 <-
+sd1 <-
+sd2 <-
+n1 <-
+n2 <-
+
+tobs <- (x-y - h0) / sqrt((sd1^2/n1) + (sd2^2/n2))
 
 ##df
 s1 <-
