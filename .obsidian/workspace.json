@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e6d9b2a4968ff09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions interference & tables.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -149,13 +161,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b8b89f7d3271405",
+  "active": "6e6d9b2a4968ff09",
   "lastOpenFiles": [
+    "Proportions interference & tables.md",
     "Test statistics and p-values.md",
     "Anova.md",
     "Pooled stuff.md",
     "Confidence intervals and quantiles.md",
-    "Proportions interference & tables.md",
     "Probabitlity & Simulation.md",
     "Distributions.md",
     "Model regression.md",
