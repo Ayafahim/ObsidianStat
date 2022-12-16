@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity & Simulation.md"
+                "file": "Plots.md"
               }
             }
           }
@@ -215,12 +215,12 @@
   },
   "active": "1495d1ee0942a515",
   "lastOpenFiles": [
+    "Probabitlity & Simulation.md",
     "Plots.md",
     "Confidence intervals and quantiles.md",
     "conflict-files-obsidian-git.md",
     "Pooled stuff.md",
     "Distributions.md",
-    "Probabitlity & Simulation.md",
     "Proportions interference & tables.md",
     "Power.t.test.md",
     "model regression.md",
