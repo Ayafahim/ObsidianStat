@@ -63,6 +63,8 @@ The transformed variable is uniformly distributed on [8, 12] so by Eq. 2-52 and 
 
 Standard normal distrubtion always have mean 0 and sd = variance = 1
 
+![[Pasted image 20221216110058.png]]
+
 ## T-dist.
 
 ## Hypergeometrisk 

@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Distributions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8891922c7c9094b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary statistics & miscellaneous.md"
+                "file": "Plots.md"
               }
             }
           }
@@ -255,17 +267,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32be7697cfd06e8b",
+  "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Rescources/Pasted image 20221216110310.png",
+    "Plots.md",
+    "Rescources/Pasted image 20221216094640.png",
+    "Distributions.md",
+    "Summary statistics & miscellaneous.md",
     "Probabitlity & Simulation.md",
     "model regression.md",
     "Rescources/Pasted image 20221215125613.png",
-    "Distributions.md",
-    "Summary statistics & miscellaneous.md",
     "Anova.md",
-    "Test statistics and p-values.md",
-    "Power.t.test.md",
-    "Pooled variance.md",
-    "Proportions interference & tables.md"
+    "Test statistics and p-values.md"
   ]
 }
