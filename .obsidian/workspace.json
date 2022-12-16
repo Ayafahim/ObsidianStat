@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pooled variance.md",
+                "file": "Anova.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pooled variance.md",
+                "file": "Anova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pooled variance.md",
+                "file": "Anova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pooled variance.md"
+                "file": "Anova.md"
               }
             }
           }
@@ -267,15 +267,15 @@
   },
   "active": "32be7697cfd06e8b",
   "lastOpenFiles": [
-    "Proportions interference & tables.md",
+    "Test statistics and p-values.md",
     "Distributions.md",
+    "Power.t.test.md",
+    "Pooled variance.md",
+    "Proportions interference & tables.md",
     "Probabitlity & Simulation.md",
     "Confidence intervals and quantiles.md",
     "Huskeregler.md",
     "Summary statistics & miscellaneous.md",
-    "Rescources/Pasted image 20221215193522.png",
-    "Test statistics and p-values.md",
-    "Anova.md",
-    "Power.t.test.md"
+    "Rescources/Pasted image 20221215193522.png"
   ]
 }

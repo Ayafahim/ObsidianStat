@@ -21,6 +21,13 @@ fobs <- (MS/MSE)
 
 ```
 
+## P-value 
+
+```R 
+1 - pf(fobs, 5-1, 30-5)
+
+```
+
 ## Post hoc hypthesis test
 
 
@@ -72,5 +79,5 @@ x¯A = 127 mL ; x¯B = 135 mL ;  x¯C = 136 mL from which we can see that A is s
 
 ```R
 qf(quantile,df1,df2)
-
 ## df1 = df treatment & df2 = df residuals
+```

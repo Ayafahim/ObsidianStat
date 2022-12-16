@@ -12,6 +12,10 @@ $X^2 = (n − 1)*S^2*σ^2$
 
 $X_a$ ; a = mean
 
+```R
+df <- (r − 1)(c − 1)
+## r = row, c = column
+```
 
 ## Exponiential
 
