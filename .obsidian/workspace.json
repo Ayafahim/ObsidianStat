@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots.md",
+                "file": "model regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots.md",
+                "file": "model regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots.md",
+                "file": "model regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots.md"
+                "file": "model regression.md"
               }
             }
           }
@@ -269,12 +269,12 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
-    "Rescources/Pasted image 20221216110310.png",
+    "Probabitlity & Simulation.md",
     "Plots.md",
+    "Rescources/Pasted image 20221216110310.png",
     "Rescources/Pasted image 20221216094640.png",
     "Distributions.md",
     "Summary statistics & miscellaneous.md",
-    "Probabitlity & Simulation.md",
     "model regression.md",
     "Rescources/Pasted image 20221215125613.png",
     "Anova.md",

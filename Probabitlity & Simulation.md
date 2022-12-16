@@ -12,6 +12,21 @@ Non-parametric bootstrap: simulate multiple samples directly from the data
 
 
 
+## Standard normal distribution
+![[Pasted image 20221216111104.png]]
+
+```R
+##Siden std normal dist. N ~ 
+k <- 1000000 
+x1 <- rnorm(k,0,1) 
+x2 <- rnorm(k,0,1)
+
+### formel for Y
+sd(exp(x1) + x2^4 + x1*x2) 
+## [1] 10.05853
+```
+
+
 ## R kommando forskelle
 
 ```R

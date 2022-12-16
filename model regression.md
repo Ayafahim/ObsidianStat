@@ -9,6 +9,35 @@ xi = explanetory variable. Given number
 
 Husk hvis beta1 (altså hældningen) = 0 så er der ingen relation mellem de to variabler altså no association
 
+### Make model if you have the data
+
+ex from exam:
+
+```R
+# Manganese concentrations 
+x <- c(0, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10) 
+# ICP-AES values 
+y <- c(114, 14, 870, 1141, 2087, 2212, 3353, 2633, 3970, 4299, 4950, 5207)
+
+##do the linear model
+lm(y ~ x)
+
+## 
+## Call:
+## lm(formula = y ~ x) 
+## 
+## Coefficients: 
+## (Intercept)       x 
+##    49.19       504.33
+
+```
+
+### Researchers would like to know the uncertainty in ICP-AES value for a new observation with manganese concentration 5 ppb. What is the 95% prediction interval for this concentration?
+
+
+
+
+
 ### How to estimate β0 & β1 and inteperet R output
 
 ![[Pasted image 20221214084240.png]]
