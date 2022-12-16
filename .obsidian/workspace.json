@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Proportions interference & tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Proportions interference & tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Proportions interference & tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity & Simulation.md"
+                "file": "Proportions interference & tables.md"
               }
             }
           }
@@ -269,12 +269,12 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Probabitlity & Simulation.md",
     "Summary statistics & miscellaneous.md",
     "Test statistics and p-values.md",
     "Anova.md",
     "Confidence intervals and quantiles.md",
     "Distributions.md",
-    "Probabitlity & Simulation.md",
     "Proportions interference & tables.md",
     "model regression.md",
     "Power.t.test.md",
