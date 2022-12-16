@@ -71,7 +71,6 @@ Standard normal distrubtion always have mean 0 and sd = variance = 1
 ![[Pasted image 20221216110058.png]]
 
 
-<<<<<<< HEAD
 ## Hypergeometrisk 
 A distrubution is hypergeometrisk when there is no " laying back" (tilbagelægning) fx, when you draw random cards.
 ![[Pasted image 20221216191408.png]]
