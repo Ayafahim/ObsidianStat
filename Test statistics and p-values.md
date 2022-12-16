@@ -60,6 +60,16 @@ tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
 
 ```R
 tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
+
+
+
+s <-
+n <-
+v
+
+
+
+
 ```
 
 ### df
