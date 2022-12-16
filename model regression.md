@@ -27,6 +27,9 @@ tobs = intercept estimate/ intercept std. error
 eks:
 tobs = $β0/ σ_β0 = 3.2433/0.5483 = 5.915.$
 
+## Sample correlation
+
+![[Pasted image 20221216102335.png]]
 
 
 ## Confidence intervals

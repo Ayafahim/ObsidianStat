@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anova.md",
+                "file": "model regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anova.md",
+                "file": "model regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anova.md",
+                "file": "model regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anova.md"
+                "file": "model regression.md"
               }
             }
           }
@@ -267,6 +267,7 @@
   },
   "active": "32be7697cfd06e8b",
   "lastOpenFiles": [
+    "Anova.md",
     "Test statistics and p-values.md",
     "Distributions.md",
     "Power.t.test.md",
@@ -275,7 +276,6 @@
     "Probabitlity & Simulation.md",
     "Confidence intervals and quantiles.md",
     "Huskeregler.md",
-    "Summary statistics & miscellaneous.md",
-    "Rescources/Pasted image 20221215193522.png"
+    "Summary statistics & miscellaneous.md"
   ]
 }
