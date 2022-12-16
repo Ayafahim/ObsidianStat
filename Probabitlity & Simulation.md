@@ -1,9 +1,11 @@
-# Distributions
+Se [[Distributions]] for formler osv
+
+# Distributions examples
 
 ## $X^2-distribution$  
-Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1.
 
-$X^2 = (n − 1)*S^2*σ^2$
+## Exponential
+
 
 
 ## R kommando forskelle
@@ -99,9 +101,8 @@ Her skal hvert led sættes ind i formlen:
 ![[Pasted image 20221216093742.png]]
 
 Sæt ind i formel:
-$9x^4$
-
-
+$9x^4*σ_1^2+25*σ_2^2$
+![[Pasted image 20221216094014.png]]
 
 
 

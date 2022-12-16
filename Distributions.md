@@ -15,8 +15,24 @@ $X_a$ ; a = mean
 
 ## Exponiential
 
-exp(lamda)
-μ = $1/λ$
+![[Pasted image 20221216094153.png]]
+![[Pasted image 20221216094131.png]]
+#### Example : 
+her husk at omdanne til rigtige enhed:
+```R
+## Vi har fået
+mean(x1) 
+## [1] 2.76 
+mean(x2) 
+## [1] 0.897
+```
+
+Da lamda = mu så ville man tænke svar 1 men husk at omregne til enhed hvis det er spurgt om.
+![[Pasted image 20221216094640.png]]
+
+
+
+
 
 ## Uniform Distribution
 
@@ -34,7 +50,6 @@ Ex of problem:
 A random variable X follows a uniform distribution on the interval [0; 1]. The expected value and the variance of (X + 2) · 4 is?
 
 The transformed variable is uniformly distributed on [8, 12] so by Eq. 2-52 and 2-53 the answer is: $µ = 1/2*(12 − 8) = 10$ and $σ^2 = 1/12*(12 − 8)*2 = 16 12 = 4 3$
-
 
 
 
