@@ -22,10 +22,10 @@ c_total <- 22+15
 g_Total <-18+11+22+9+38+ 36+ 15+ 12
 r_total <-18+11+22+9
 
-c_total * r_total/g_Total
+(c_total * r_total)/g_Total
 ```
 
-## Estimation of single proportions
+## Test statistic for  zobs
 
 ![[Pasted image 20221215122306.png]]
 
@@ -48,7 +48,7 @@ Hvor x = alle dem der startede i technat det år
 ```
 
 
-## 2 sample proportion hypothesis test
+## estatimate for single proportion and  confidence interval
 
 ![[Pasted image 20221215112656.png]]
 
@@ -99,7 +99,7 @@ zobs <- (phat1-phat2)/sqrt(phat*(1-phat)*(1/n1+1/2))
 
 ```
 
-
+# Prop.test and Confidence interval
 
 ![[Pasted image 20221215112444.png]]
 
@@ -113,6 +113,15 @@ prop.test(c(x1,x2), c(n1,n2), correct = FALSE)
 
 ```
 
+<<<<<<< HEAD
+
+
+
+
+
+
+=======
+>>>>>>> origin/main
 # Test for no change in distribution
 
 Do a chi-square test
@@ -180,3 +189,11 @@ sigmahat <- sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
 (phat1-phat2) + c(1,-1) * qnorm(0.995) * sigmahat
 
 ```
+
+
+
+# Phat estimation for 2 propotions 
+
+![[Pasted image 20221216181626.png]]
+
+

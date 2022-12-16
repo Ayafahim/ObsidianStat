@@ -18,9 +18,6 @@ The differences in the answers are:
 
 
 
-
-
-
 ## R kommando forskelle #probability
 
 ```R
@@ -40,7 +37,9 @@ qnorm(0.8, mean = 50, sd = 10)
 
 ```
 
-# Different probability commands for over or under value: 
+<<<<<<< HEAD
+# Different probability commands for over or under value: #probability 
+=======
 
 ```R
 #These are examples, switch out the command with rigth distribution

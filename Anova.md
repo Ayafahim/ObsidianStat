@@ -19,11 +19,15 @@ anova(lm(y~grp))
 
 ![[Pasted image 20221215101906.png]]
 
+### Formel for SST
+![[Pasted image 20221216181854.png]]
+
+
 ## F-statistic
 ![[Pasted image 20221215102910.png]]
 
 ![[Pasted image 20221215133040.png]]
-So MSE = Sigmahat
+## So MSE = Sigmahat
 
 ```R
 fobs <- (SS(Tr)/(k-1))/(SSE/(n-1))

@@ -112,3 +112,7 @@ v
 
 
 
+![[Pasted image 20221216182043.png]]
+
+
+![[Pasted image 20221216182407.png]]

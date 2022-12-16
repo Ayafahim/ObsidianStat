@@ -23,11 +23,9 @@
             "id": "a0be2d592f981f90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Plots.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20221216182928.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots.md",
+                "file": "Pasted image 20221216182928.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots.md",
+                "file": "Pasted image 20221216182928.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots.md"
+                "file": "Pasted image 20221216182928.png"
               }
             }
           }
@@ -149,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448a421491033a17",
+  "active": "a0be2d592f981f90",
   "lastOpenFiles": [
+    "Pasted image 20221216183028.png",
+    "Pasted image 20221216183030.png",
+    "Pasted image 20221216183032.png",
+    "Plots.md",
+    "conflict-files-obsidian-git.md",
     "Probabitlity & Simulation.md",
     "Power.t.test.md",
     "Confidence intervals and quantiles.md",
     "Distributions.md",
-    "model regression.md",
-    "2022-12-16.md",
-    "conflict-files-obsidian-git.md",
-    "Anova.md",
-    "Plots.md",
-    "Pooled variance.md"
+    "model regression.md"
   ]
 }
