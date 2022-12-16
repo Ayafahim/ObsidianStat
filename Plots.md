@@ -4,6 +4,7 @@
 ![[Pasted image 20221216172531.png]]
 
 ## $X^2$-dist
+![[Pasted image 20221216172641.png]]
 
 
 
