@@ -71,19 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity & Simulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f736f0cf58c297e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -192,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabitlity & Simulation.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabitlity & Simulation.md"
+                "file": "Summary statistics & miscellaneous.md"
               }
             }
           }
@@ -243,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f736f0cf58c297e",
+  "active": "78bd57e19e202598",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Probabitlity & Simulation.md",
-    "Test statistics and p-values.md",
-    "Distributions.md",
-    "Huskeregler.md",
+    "Power.t.test.md",
     "Anova.md",
-    "Ting der mangler.md",
-    "Rescources/Pasted image 20221216174551.png",
-    "Rescources/Pasted image 20221215125925.png",
-    "Summary statistics & miscellaneous.md"
+    "Distributions.md",
+    "Test statistics and p-values.md",
+    "Pooled stuff.md",
+    "Confidence intervals and quantiles.md",
+    "Proportions interference & tables.md",
+    "Rescources/Pasted image 20221216181854.png",
+    "Plots.md",
+    "Probabitlity & Simulation.md"
   ]
 }

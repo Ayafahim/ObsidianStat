@@ -7,6 +7,8 @@
 ![[Pasted image 20221216172641.png]]
 
 
+
+
 # Normal dist & t-dist
 
 ![[Pasted image 20221216174551.png]]

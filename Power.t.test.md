@@ -1,3 +1,15 @@
+# One sample sample size formula
+![[Pasted image 20221216185744.png]]
+
+
+```R
+## The formula 
+zb <- qnorm(0.9) 
+za <- qnorm(1-0.05/2) 
+delta <- 2 sigma <- 3.5 (sigma * (zb+za)/delta)^2
+
+```
+
 
 ## Eks af power test (one sample)
 
@@ -25,7 +37,7 @@ f, in a new experiment, it is wanted to obtain a strength of 80% to be able to d
 
 Pooled variance = $5.0^2$
 
-1. Udregn pooled variance hvis ik du har: [[Pooled variance]]
+1. Udregn pooled variance hvis ik du har: [[Pooled stuff]]
 ```R
 power.t.test(delta=4, sd=5.0, sig.level=0.01, power=0.8)$n 
 ## [1] 38.19

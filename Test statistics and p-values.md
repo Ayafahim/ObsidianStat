@@ -74,13 +74,12 @@ qf(quantile,df1 = k-1 ,df2 = n-k)
 
 
 ## 2 sample paired
-### df
+### df = n-1 hvor n er observationer for en gruppe
 
 ```R
 tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
 ```
 
-![[Pasted image 20221215100459.png]]
 
 
 
