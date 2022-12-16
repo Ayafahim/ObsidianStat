@@ -69,9 +69,11 @@
             "id": "78bd57e19e202598",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Rescources/Pasted image 20221216185744.png"
+                "file": "Plots.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -105,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model regression.md",
+                "file": "Model regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bootstrapping",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rescources/Pasted image 20221216185744.png",
+                "file": "Plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rescources/Pasted image 20221216185744.png",
+                "file": "Plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rescources/Pasted image 20221216185744.png"
+                "file": "Plots.md"
               }
             }
           }
@@ -229,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448a421491033a17",
+  "active": "78bd57e19e202598",
   "lastOpenFiles": [
+    "Distributions.md",
+    "Model regression.md",
+    "Huskeregler.md",
+    "Anova.md",
+    "2022-12-16.md",
+    "Rescources/Pasted image 20221216185744.png",
     "Summary statistics & miscellaneous.md",
     "conflict-files-obsidian-git.md",
     "Power.t.test.md",
-    "Anova.md",
-    "Distributions.md",
-    "Test statistics and p-values.md",
-    "Pooled stuff.md",
-    "Confidence intervals and quantiles.md",
-    "Proportions interference & tables.md",
-    "Rescources/Pasted image 20221216181854.png"
+    "Test statistics and p-values.md"
   ]
 }

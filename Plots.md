@@ -34,4 +34,8 @@
 ## CDF:
 ![[Pasted image 20221216183032.png]]
 
+
+# Log dist
+![[Pasted image 20221216191251.png]]
+
 # Uniform distribution graph

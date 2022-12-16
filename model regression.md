@@ -7,8 +7,6 @@ Yi = dependant variable, random
 xi = explanetory variable. Given number
 εi = deviation (errors). random N(0,sigma^2)
 
-
-
 Husk hvis beta1 (altså hældningen) = 0 så er der ingen relation mellem de to variabler altså no association
 
 ### Make model if you have the data
@@ -50,18 +48,23 @@ predict(fit, newdata=data.frame(x=5), interval="prediction", level=0.95)
 #lwr quantile, upr quantile
 ```
 
+## Prediction of the mean #prediction
 
 
+![[Pasted image 20221216190700.png]]
 
-### How to estimate β0 & β1 and inteperet R output
+![[Pasted image 20221216190738.png]]
+
+
+## How to estimate β0 & β1 and inteperet R output
 
 ![[Pasted image 20221214084240.png]]
 
 Intercept - std. error = sigma_βi
 t-values = tobs
 Pr = p-value (if stars means there is difference and h0 isnt accepted)
-residual standard error: XXX (sigma) on XXX (df) degress of freedom
-multiple R squared: XXX (correlation coefficent) the explained variance in the data, 
+#std residual standard error: XXX (sigma (variance of the error)) on XXX (df) degress of freedom
+#std multiple R squared: XXX (correlation coefficent) the explained variance in the data, 
 so it explains more/less than XX% of the observed variation in data. In this example it explains more than 95%.
 
 df = n-2
