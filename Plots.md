@@ -1,3 +1,9 @@
+# Q-Q plot 
+Husk: Use q-q plot on residuals to check the normality assumption. If the residuals are close the the line its apperas not deviate from normality
+![[Pasted image 20221216182823.png]]
+
+
+
 # Plots for diff distributions
 
 ## Exp

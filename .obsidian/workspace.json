@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test statistics and p-values.md"
+                "file": "Summary statistics & miscellaneous.md"
               }
             }
           }
@@ -183,15 +183,15 @@
   },
   "active": "dd3722b9fb322741",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Proportions interference & tables.md",
+    "Probabitlity & Simulation.md",
+    "Power.t.test.md",
+    "Pooled variance.md",
+    "Plots.md",
+    "model regression.md",
     "Distributions.md",
     "Confidence intervals and quantiles.md",
     "Anova.md",
-    "Test statistics and p-values.md",
-    "Proportions interference & tables.md",
-    "Rescources/Pasted image 20221216171755.png",
-    "Rescources/Pasted image 20221216171826.png",
-    "model regression.md",
-    "Rescources/Pasted image 20221215125925.png"
+    "Test statistics and p-values.md"
   ]
 }
