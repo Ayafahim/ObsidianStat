@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anova.md",
+                "file": "Test statistics and p-values.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anova.md",
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anova.md",
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anova.md"
+                "file": "Test statistics and p-values.md"
               }
             }
           }
@@ -269,6 +269,7 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Anova.md",
     "Confidence intervals and quantiles.md",
     "Test statistics and p-values.md",
     "Proportions interference & tables.md",
@@ -277,7 +278,6 @@
     "model regression.md",
     "Power.t.test.md",
     "Huskeregler.md",
-    "Anova.md",
     "Pooled variance.md"
   ]
 }

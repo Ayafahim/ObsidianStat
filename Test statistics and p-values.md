@@ -11,13 +11,9 @@ Så altså hvis test ikke ligger i intervallet givet så afvises nul-hypotesen
 
 When p-value is above sig. level h0 is accepted
 
-# One sample t-dist.
-
-## Calculate t-value (tobs) and p-value
-
+# Test-statistics
 ```R
-##t-statistic
-
+## one sample t-dist, for hypothesis
 tobs <- (mean(x) - mu) / (sd(x) / sqrt(n))
 
 ### tobs with R
@@ -25,16 +21,38 @@ tobs <- (mean(x) - mu) / (sd(x) / sqrt(n))
 
 qt(quantile = 0.995,df = 24)
 
-## p-value
+t.test(x, mu=7725)
+##husk mu er den mu for nul-hypotesen (mu = 0 by default)
+
+##Chi-square test statistic
+df = (r-1)*(c-1)
+qchisq(quantile = 0.995,df)
+
+## or do test
+data <- matrix(c(11,27,15,14,40,30,5,23,35), ncol = 3, byrow =TRUE) 
+chi <- chisq.test(training, correct = FALSE) 
+chi
+
+
+```
+
+## P-values
+
+```R
+
+
+## p-value t-dist
+### df = n-1
 
 2*(1-pt(abs(tobs),df))
-## df = n-1
 
-## or do t.test that calculates everything:
+##chi-s
+1-pchisq(10.985,df=4))
 
-t.test(x, mu=7725)
 
-##husk mu er den mu for nul-hypotesen (mu = 0 by default)
+
+
+
 ```
 
 ## Z-statistic
