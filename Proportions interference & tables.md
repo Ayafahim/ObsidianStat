@@ -17,6 +17,9 @@ Assuming independence between year and discipline, the expected number of newly 
 
 ![[Pasted image 20221215123446.png]]
 
+```R
+c_total * r_total/g_Total
+```
 
 ## Estimation of single proportions
 

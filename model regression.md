@@ -7,6 +7,8 @@ Yi = dependant variable, random
 xi = explanetory variable. Given number
 εi = deviation (errors). random N(0,sigma^2)
 
+
+
 Husk hvis beta1 (altså hældningen) = 0 så er der ingen relation mellem de to variabler altså no association
 
 ### Make model if you have the data
@@ -30,10 +32,23 @@ lm(y ~ x)
 ## (Intercept)       x 
 ##    49.19       504.33
 
+
+
+## Get all info (summary) with p-values and stuff
+fit <- lm(y ~ x) 
+summary(fit)
 ```
 
 ### Researchers would like to know the uncertainty in ICP-AES value for a new observation with manganese concentration 5 ppb. What is the 95% prediction interval for this concentration?
 
+```R
+fit <- lm(y ~ x) 
+predict(fit, newdata=data.frame(x=5), interval="prediction", level=0.95) 
+## fit           lwr       upr 
+## 1 2570.833  2087.363  3054.303
+
+#lwr quantile, upr quantile
+```
 
 
 
@@ -46,7 +61,9 @@ Intercept - std. error = sigma_βi
 t-values = tobs
 Pr = p-value (if stars means there is difference and h0 isnt accepted)
 residual standard error: XXX (sigma) on XXX (df) degress of freedom
-multiple R squared: XXX (correlation coefficent)
+multiple R squared: XXX (correlation coefficent) the explained variance in the data, 
+so it explains more/less than XX% of the observed variation in data. In this example it explains more than 95%.
+
 df = n-2
 
 

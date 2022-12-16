@@ -1,3 +1,4 @@
+
 ### Relationship between t-statistic and CI
 
 Answer from an exam:
@@ -8,6 +9,7 @@ Så altså hvis test ikke ligger i intervallet givet så afvises nul-hypotesen
 
 ![[Pasted image 20221214143350.png]]
 
+When p-value is above sig. level h0 is accepted
 
 # One sample t-dist.
 
