@@ -87,7 +87,26 @@ dhyper(x = SomeValue, m = SomeValue, n = SomeValue, k = SomeValue)
 
 
 
-## Log dist. #mangler 
+## Log dist. 
+![[Pasted image 20221216193243.png]]
+
+
+![[Pasted image 20221216193313.png]]
+```R 
+## Calculate mean 
+alpha <- 1 
+beta <- 0.7
+## 
+xseq <- seq(0.1, 10, by=0.1) plot(xseq, dlnorm(xseq, meanlog=alpha, sdlog=beta), type = "l") ## 
+exp(alpha+beta^2/2)
+```
+
+```R
+## Calculate the  variance
+alpha<-
+beta<-
+sigma2<- exp^(2*alpha+beta)*(exp^(beta^2)-1)
+```
 
 ```R
 ## hvis man vil se hvordan den ser ud til graf opg
@@ -97,3 +116,5 @@ qqline(x)
 
 ```
 
+The answer is A. In B, the sample has more small values as well as more large values. The sample in C has fewer small values and fewer large values. The sample in D seems to be normal distributed
+![[Pasted image 20221216194044.png]]
