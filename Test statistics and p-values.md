@@ -24,6 +24,17 @@ qt(quantile = 0.995,df = 24)
 t.test(x, mu=7725)
 ##husk mu er den mu for nul-hypotesen (mu = 0 by default)
 
+###Normal dist z-stat
+##### ~ N(0,1^2)
+
+#R
+qnorm(quantile)
+
+##uden R
+zobs <- (mean(x) - mu) / (var(x) / sqrt(n))
+
+
+
 ##Chi-square test statistic
 df = (r-1)*(c-1)
 qchisq(quantile = 0.995,df)
@@ -33,35 +44,34 @@ data <- matrix(c(11,27,15,14,40,30,5,23,35), ncol = 3, byrow =TRUE)
 chi <- chisq.test(training, correct = FALSE) 
 chi
 
+##F-dist (ANOVA)
+##fobs = test statistic
+
+## k = antal grupper, n = antal observationer i alt.
+
+### fobs
+qf(quantile,df1 = k-1 ,df2 = n-k)
+## df1 = df treatment & df2 = df residuals
 
 ```
 
 ## P-values
 
 ```R
-
-
 ## p-value t-dist
 ### df = n-1
 
 2*(1-pt(abs(tobs),df))
 
-##chi-s
-1-pchisq(10.985,df=4))
+##chi-square
+1-pchisq(10.985,df))
 
 
-
-
+##f-dist (ANOVA)
+1 - pf(fobs, k-1, n-k)
 
 ```
 
-## Z-statistic
-
-```R
-zobs <- (mean(x) - mu) / (var(x) / sqrt(n))
-
-## ~ N(0,1^2)
-```
 
 ## 2 sample paired
 ### df
