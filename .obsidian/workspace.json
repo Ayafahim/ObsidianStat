@@ -4,153 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e69864af4a6f3a29",
+        "id": "e4bf04e32274aac3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1da300cf0980da",
+            "id": "2d1aa8c72d88cf6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anova.md",
+                "file": "Confidence intervals and quantiles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "563b2d7c4bdbe362",
+            "id": "a0be2d592f981f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rescources/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fab3283a56e9cab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distributions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d985dfe1c0c3b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proportions interference & tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b98c3b2a756edc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distributions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8545bace9eff532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proportions interference & tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32be7697cfd06e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distributions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8891922c7c9094b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proportions interference & tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa40292e08d74fb3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Rescources/Pasted image 20221215125925.png"
-              }
-            }
-          },
-          {
-            "id": "b6ccbbad1375eb29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test statistics and p-values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae69a6954773a7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabitlity & Simulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceef13829e5eef68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "model regression.md",
+                "file": "Confidence intervals and quantiles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Confidence intervals and quantiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Confidence intervals and quantiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions interference & tables.md"
+                "file": "Confidence intervals and quantiles.md"
               }
             }
           }
@@ -267,18 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8891922c7c9094b7",
+  "active": "d0599580d79c2543",
   "lastOpenFiles": [
-    "Probabitlity & Simulation.md",
-    "Summary statistics & miscellaneous.md",
-    "Test statistics and p-values.md",
-    "Anova.md",
+    "conflict-files-obsidian-git.md",
     "Confidence intervals and quantiles.md",
-    "Test statistics and p-values.md",
+    "Anova.md",
+    "Probabitlity & Simulation.md",
     "Distributions.md",
-    "Proportions interference & tables.md",
-    "model regression.md",
+    "Plots.md",
+    "Pooled variance.md",
     "Power.t.test.md",
-    "Huskeregler.md"
+    "Test statistics and p-values.md",
+    "Summary statistics & miscellaneous.md"
   ]
 }

@@ -18,6 +18,10 @@ Assuming independence between year and discipline, the expected number of newly 
 ![[Pasted image 20221215123446.png]]
 
 ```R
+c_total <- 22+15
+g_Total <-18+11+22+9+38+ 36+ 15+ 12
+r_total <-18+11+22+9
+
 c_total * r_total/g_Total
 ```
 
@@ -37,7 +41,7 @@ Hvor x = alle dem der startede i technat det år
 ```R
 (10339 - 0.32 * 30193) / sqrt(30193 * 0.32 * 0.68)
 
-## mere generelt
+## mere genereltt
 
 (x-n*p0)/sqrt(n * po * (1-po))
 
@@ -51,6 +55,17 @@ Hvor x = alle dem der startede i technat det år
 Hvor 
 n = sum of all
 x = sum of all in category
+
+```R
+x <-
+n <-
+phat <- x/n
+phat1 <- 1-phat
+
+phat + c(-1,1) * qnorm(0.975) * sqrt((phat*phat1)/n)
+
+```
+
 
 # Example:
 ![[Pasted image 20221215105856.png]]
@@ -69,9 +84,34 @@ qnorm(0.995)
 
 ![[Pasted image 20221215105332.png]]
 
+```R
+x1 <-
+n1 <-
+x2 <-
+n2 <-
+
+phat <- (x1+x2)/(n1+n2)
+phat1 <-x1/n1
+phat2 <-x2/n2
+
+zobs <- (phat1-phat2)/sqrt(phat*(1-phat)*(1/n1+1/2))
+
+
+```
+
+
 
 ![[Pasted image 20221215112444.png]]
 
+```R
+x1 <-
+n1 <-
+x2 <-
+n2 <-
+
+prop.test(c(x1,x2), c(n1,n2), correct = FALSE)
+
+```
 
 # Test for no change in distribution
 
@@ -122,3 +162,21 @@ fx:
 How many days does the experiment need to run in order to obtain a 95% confidence interval for the proportion of components to be discarded, which has an expected width of 5 percentage points?
 $ME = 0.05/2 = 0.025$
 
+# Difference of two proportions estimator phat1 − phat2 and confidence interval for the difference
+
+![[Pasted image 20221216154123.png]]
+
+
+```R
+  x1 <-23
+  n1 <-90
+  x2 <-35
+  n2 <-40
+phat1 <-x1/n1
+phat2 <-x2/n2
+
+sigmahat <- sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
+
+(phat1-phat2) + c(1,-1) * qnorm(0.995) * sigmahat
+
+```

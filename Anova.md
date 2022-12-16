@@ -97,3 +97,15 @@ Så der er signifikant forskel hvis der er over 6.8 ml forskel mellem gennemsnit
 So we can use that to determine which of the three waiters will be tested significantly different in two-sample post hoc comparisons. We have information about the average for each waiter: 
 x¯A = 127 mL ; x¯B = 135 mL ;  x¯C = 136 mL from which we can see that A is significantly different from B and C, since their differences are higher than 7 mL, and that there is no significant difference between B and C.
 
+# Estimate the effect of sigma
+
+## Eksample:
+
+![[Pasted image 20221216175520.png]]
+![[Pasted image 20221216175539.png]]
+
+```R
+
+logt <- c(-1.02, -1.24, -0.92, -1.47, -0.08, -0.49, -0.71, 0.22, -0.82, -1.05, -1.17, -0.92, -0.58, 0.02, -0.34, -0.97, -1.51, -1.56, -1.2, -0.99, -1.47, -1.39, -1.2, -1.02) 
+
+mean(logt)

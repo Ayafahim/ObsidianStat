@@ -2,6 +2,8 @@
 
 ### Hvis mean for nulhypotese fx h0 = 0 ikke ligger i CI så er den afvist. og der må være signifikant forskel!!
 
+### Get the mean if you have the CI (helst 95% da jeg ved det altid virker) så bare lowerbound + upperbound/2
+
 
 # Critical level i.e $X^2$- distribution
 
@@ -33,10 +35,10 @@ Allerede udregnet populære quantiles:
 - 95% -> 0.975
 - 90% ->  0.95
 
-## Confidence interval for the mean
+### Confidence interval for the mean
 
 ```R
-## ex for 99%
+### ex for 99%
 mean()+ c(-1,1)*qt(p=0.995,df=n-1)*sd()/sqrt(n)
 ```
 
