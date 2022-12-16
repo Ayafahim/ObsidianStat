@@ -93,7 +93,18 @@ formel: phat=x/n
 # Estimated Standard Error (sigmahat)
 
 ```R
+## Først udregn estimated proportion hvis ik du har (phat)
+phat <- x/n
+sqrt((phat*(1-phat))/n)
 
+### Eksempel
+## In China x1 = 1920 answered yes out of n1 = 2000 people being asked, and in Denmark x2 = 1801 answered yes out of n2 = 2024 people being asked.
+# What is the estimate of the standard error of the estimated proportion who answered yes in Denmark?
+
+phat <- 1801/2024
+sqrt((phat*(1-phat))/2024)
+
+#[1] 0.006959748
 
 ```
 

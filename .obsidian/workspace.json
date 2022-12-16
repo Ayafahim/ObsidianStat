@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "32be7697cfd06e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pooled variance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a51fb4dc22e4055c",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Pooled variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Pooled variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions interference & tables.md"
+                "file": "Pooled variance.md"
               }
             }
           }
@@ -253,14 +265,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a8545bace9eff532",
+  "active": "32be7697cfd06e8b",
   "lastOpenFiles": [
+    "Proportions interference & tables.md",
     "Distributions.md",
     "Probabitlity & Simulation.md",
     "Confidence intervals and quantiles.md",
     "Huskeregler.md",
     "Summary statistics & miscellaneous.md",
-    "Proportions interference & tables.md",
     "Rescources/Pasted image 20221215193522.png",
     "Test statistics and p-values.md",
     "Anova.md",
