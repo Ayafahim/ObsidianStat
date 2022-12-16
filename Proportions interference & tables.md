@@ -48,7 +48,7 @@ Hvor x = alle dem der startede i technat det år
 ```
 
 
-## 2 sample proportion hypothesis test
+## 1  proportion confidence
 
 ![[Pasted image 20221215112656.png]]
 
