@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributions.md",
+                "file": "Anova.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots.md",
+                "file": "Anova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots.md",
+                "file": "Anova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots.md"
+                "file": "Anova.md"
               }
             }
           }
@@ -169,11 +169,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd920153d4e5abf1",
+  "active": "d6f0af50820c57dd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Distributions.md",
     "Plots.md",
+    "conflict-files-obsidian-git.md",
     "model regression.md",
     "Probabitlity & Simulation.md",
     "Confidence intervals and quantiles.md",
