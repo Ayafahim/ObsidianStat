@@ -67,12 +67,8 @@
             "id": "1495d1ee0942a515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -163,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -216,8 +208,8 @@
   },
   "active": "1495d1ee0942a515",
   "lastOpenFiles": [
-    "Pooled stuff.md",
     "conflict-files-obsidian-git.md",
+    "Pooled stuff.md",
     "Distributions.md",
     "Confidence intervals and quantiles.md",
     "Probabitlity & Simulation.md",
