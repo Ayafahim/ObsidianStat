@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +110,18 @@
               "type": "image",
               "state": {
                 "file": "Rescources/Pasted image 20221215125925.png"
+              }
+            }
+          },
+          {
+            "id": "b6ccbbad1375eb29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test statistics and p-values.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proportions interference & tables.md",
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proportions interference & tables.md"
+                "file": "Test statistics and p-values.md"
               }
             }
           }
@@ -257,11 +269,11 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
-    "Confidence intervals and quantiles.md",
     "Proportions interference & tables.md",
-    "Test statistics and p-values.md",
-    "Distributions.md",
     "Probabitlity & Simulation.md",
+    "Test statistics and p-values.md",
+    "Confidence intervals and quantiles.md",
+    "Distributions.md",
     "model regression.md",
     "Power.t.test.md",
     "Huskeregler.md",

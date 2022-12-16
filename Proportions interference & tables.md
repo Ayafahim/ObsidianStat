@@ -173,6 +173,12 @@ $ME = 0.05/2 = 0.025$
 
 
 ```R
+  x1 <-23
+  n1 <-90
+  x2 <-35
+  n2 <-40
+phat1 <-x1/n1
+phat2 <-x2/n2
 
 sigmahat <- sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
 
