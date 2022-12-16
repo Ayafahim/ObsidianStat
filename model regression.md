@@ -27,10 +27,6 @@ tobs = intercept estimate/ intercept std. error
 eks:
 tobs = $β0/ σ_β0 = 3.2433/0.5483 = 5.915.$
 
-## Sample correlation
-
-![[Pasted image 20221216102335.png]]
-
 
 ## Confidence intervals
 
@@ -65,3 +61,13 @@ Sxx <- (n-1)*var(beta1)
 ![[Pasted image 20221215125925.png]]
 
 Jo mere box agtige of ligeligt fordelt jo mere homogents så model1 nej men model2 ja.
+
+# Calculated correlation
+![[Pasted image 20221216102335.png]]
+What is the calculated correlation between the energy demand and the GDP?
+
+```R
+
+### $coef$[2] = b1 så hvis ik du har data kig på estimate for b1
+sd(gdp) / sd(energy) * lm(energy ~ gdp)$coef[2]
+```
