@@ -1,6 +1,18 @@
 ![[Pasted image 20221215132749.png]]
 
 
+# Do ANOVA test if given data
+
+```R
+## Data given
+y <- c(1.89, 2.35, 1.68, 2.11, 3.15, 2.16, 2.40, 2.59, 1.54, 2.02, 2.01, 2.11)
+## group the observations, rep(groupname,observations in group)
+grp<-c(rep("a",4),rep("b",4),rep("c",4))
+## anova
+anova(lm(y~grp))
+
+```
+
 ## R interpertation 
 
 ![[Pasted image 20221214081622.png]]

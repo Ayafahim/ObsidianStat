@@ -2,6 +2,19 @@
 
 ### Hvis mean for nulhypotese fx h0 = 0 ikke ligger i CI så er den afvist. og der må være signifikant forskel!!
 
+
+# Critical level i.e $X^2$- distribution
+
+```R
+(df <- (r-1)*(c-1)) 
+
+##this is for sig. level = 0.01
+qchisq(0.99, df) 
+
+## [1] 9.21034
+```
+
+
 ## Quantiles
 ![[Pasted image 20221215113931.png]]
 

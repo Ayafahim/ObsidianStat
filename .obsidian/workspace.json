@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Anova.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Anova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Anova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test statistics and p-values.md"
+                "file": "Anova.md"
               }
             }
           }
@@ -269,15 +269,15 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Probabitlity & Simulation.md",
+    "Test statistics and p-values.md",
+    "Confidence intervals and quantiles.md",
     "Proportions interference & tables.md",
     "model regression.md",
     "Plots.md",
-    "Probabitlity & Simulation.md",
     "Rescources/Pasted image 20221216110310.png",
     "Rescources/Pasted image 20221216094640.png",
     "Distributions.md",
-    "Summary statistics & miscellaneous.md",
-    "Rescources/Pasted image 20221215125613.png",
-    "Anova.md"
+    "Summary statistics & miscellaneous.md"
   ]
 }

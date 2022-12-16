@@ -8,7 +8,9 @@ Non-parametric bootstrap: simulate multiple samples directly from the data
 
 ## $X^2-distribution$  
 
-## Exponential
+## Possion
+![[Pasted image 20221216113425.png]]
+
 
 
 
