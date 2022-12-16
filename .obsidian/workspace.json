@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Test statistics and p-values.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Mean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary statistics & miscellaneous.md"
+                "file": "Test statistics and p-values.md"
               }
             }
           }
@@ -205,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5e3996ceb07528d",
+  "active": "d0599580d79c2543",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Summary statistics & miscellaneous.md",
     "Proportions interference & tables.md",
     "Probabitlity & Simulation.md",
-    "Power.t.test.md",
-    "Pooled variance.md",
-    "Plots.md",
-    "model regression.md",
+    "Pooled stuff.md",
+    "Pasted image 20221216190645.png",
+    "Pasted image 20221216182823.png",
+    "Huskeregler.md",
+    "Confidence intervals and quantiles.md",
     "Distributions.md",
-    "Confidence intervals and quantiles.md"
+    "Plots.md"
   ]
 }
