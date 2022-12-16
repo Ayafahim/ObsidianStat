@@ -5,6 +5,11 @@ E[x] =  `n * p`  ;  v[x] = `n * p * (1-p)`
 
 ## Poisson
 
+![[Pasted image 20221216191753.png]]
+![[Pasted image 20221216191904.png]]
+
+
+
 ## $X^2$-distribution  
 Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1.
 
@@ -61,13 +66,14 @@ The probability is always 1 with an uniform distrubution. The probability is the
 ### Standard Normal Distribution/ z-dist.
 
 Standard normal distrubtion always have mean 0 and sd = variance = 1
+#std 
 
 ![[Pasted image 20221216110058.png]]
 
 
-## Hypergeometrisk 
+## Hypergeometrisk #mangler
 
-## Log dist.
+## Log dist. #mangler 
 
 ```R
 ## hvis man vil se hvordan den ser ud til graf opg

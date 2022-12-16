@@ -45,4 +45,8 @@ The marked value with question mark is the median of the sample
 ## CDF:
 ![[Pasted image 20221216183032.png]]
 
+
+# Log dist
+![[Pasted image 20221216191251.png]]
+
 # Uniform distribution graph

@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08f8a05fb916abc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mean",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test statistics and p-values.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -206,8 +218,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0599580d79c2543",
+  "active": "08f8a05fb916abc9",
   "lastOpenFiles": [
+    "Test statistics and p-values.md",
     "Summary statistics & miscellaneous.md",
     "Proportions interference & tables.md",
     "Probabitlity & Simulation.md",
@@ -216,7 +229,6 @@
     "Pasted image 20221216182823.png",
     "Huskeregler.md",
     "Confidence intervals and quantiles.md",
-    "Distributions.md",
-    "Plots.md"
+    "Distributions.md"
   ]
 }

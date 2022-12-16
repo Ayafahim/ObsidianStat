@@ -1,3 +1,5 @@
+Husk hvis der er stjerner ved siden af p-værdig så er der signifikant forskel
+
 
 ### Relationship between t-statistic and CI
 
