@@ -5,6 +5,11 @@ E[x] =  `n * p`  ;  v[x] = `n * p * (1-p)`
 
 ## Poisson
 
+![[Pasted image 20221216191753.png]]
+![[Pasted image 20221216191904.png]]
+
+
+
 ## $X^2$-distribution  
 Uuafhængige normalfordelte stokastiske variable med middelværdi 0 og varians 1.
 
