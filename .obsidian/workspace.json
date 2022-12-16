@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Confidence intervals and quantiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,39 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
+      },
+      {
+        "id": "0372826e34a517f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586a960e33763d48",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Rescources/Pasted image 20221216171826.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7128702955f505b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903a6ab532d43b9f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Rescources/Pasted image 20221216171755.png"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rescources/Pasted image 20221216171755.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rescources/Pasted image 20221216171755.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +281,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rescources/Pasted image 20221216171755.png"
+              }
             }
           }
         ]
@@ -257,17 +293,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf1d19daf9d3a8ba",
+  "active": "448a421491033a17",
   "lastOpenFiles": [
+    "Rescources/Pasted image 20221216171826.png",
+    "Confidence intervals and quantiles.md",
+    "Test statistics and p-values.md",
     "conflict-files-obsidian-git.md",
     "Anova.md",
-    "Test statistics and p-values.md",
     "model regression.md",
     "Proportions interference & tables.md",
     "Rescources/Pasted image 20221215125925.png",
-    "Confidence intervals and quantiles.md",
     "Distributions.md",
-    "Probabitlity & Simulation.md",
-    "Power.t.test.md"
+    "Probabitlity & Simulation.md"
   ]
 }
