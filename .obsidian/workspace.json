@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Distributions.md"
               }
             }
           }
@@ -220,15 +219,15 @@
   },
   "active": "08f8a05fb916abc9",
   "lastOpenFiles": [
+    "Confidence intervals and quantiles.md",
+    "model regression.md",
+    "conflict-files-obsidian-git.md",
     "Test statistics and p-values.md",
     "Summary statistics & miscellaneous.md",
     "Proportions interference & tables.md",
     "Probabitlity & Simulation.md",
     "Pooled stuff.md",
     "Pasted image 20221216190645.png",
-    "Pasted image 20221216182823.png",
-    "Huskeregler.md",
-    "Confidence intervals and quantiles.md",
-    "Distributions.md"
+    "Pasted image 20221216182823.png"
   ]
 }
