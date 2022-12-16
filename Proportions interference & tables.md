@@ -18,6 +18,10 @@ Assuming independence between year and discipline, the expected number of newly 
 ![[Pasted image 20221215123446.png]]
 
 ```R
+c_total <- 22+15
+g_Total <-18+11+22+9+38+ 36+ 15+ 12
+r_total <-18+11+22+9
+
 c_total * r_total/g_Total
 ```
 
@@ -51,6 +55,17 @@ Hvor x = alle dem der startede i technat det år
 Hvor 
 n = sum of all
 x = sum of all in category
+
+```R
+x <-
+n <-
+phat <- x/n
+phat1 <- 1-phat
+
+phat + c(-1,1) * qnorm(0.975) * sqrt((phat*phat1)/n)
+
+```
+
 
 # Example:
 ![[Pasted image 20221215105856.png]]

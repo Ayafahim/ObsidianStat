@@ -33,7 +33,7 @@ Allerede udregnet populære quantiles:
 - 95% -> 0.975
 - 90% ->  0.95
 
-## Confidence interval for the mean
+### Confidence interval for the mean
 
 ```R
 ## ex for 99%
