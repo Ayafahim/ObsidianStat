@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Probabitlity & Simulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabitlity.md",
+                "file": "Probabitlity & Simulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Probabitlity & Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Probabitlity & Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary statistics & miscellaneous.md"
+                "file": "Probabitlity & Simulation.md"
               }
             }
           }
@@ -243,9 +243,9 @@
   },
   "active": "9b98c3b2a756edc8",
   "lastOpenFiles": [
-    "Probabitlity.md",
-    "Test statistics and p-values.md",
     "Summary statistics & miscellaneous.md",
+    "Probabitlity & Simulation.md",
+    "Test statistics and p-values.md",
     "Anova.md",
     "Confidence intervals and quantiles.md",
     "Distributions.md",

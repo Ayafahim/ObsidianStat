@@ -83,6 +83,23 @@ R-kode
 
 
 
+# Propagation of error
+
+## The non-linear approximative error propagation rule
+
+![[Pasted image 20221216093015.png]]
+
+### Eksempel på brug:
+![[Pasted image 20221216093242.png]]
+
+OBS. fordi det er std. deviation skal den i kvadratrod. Husk også at sørge for sigmai og xi er samme.
+![[Pasted image 20221216093634.png]]
+
+Her skal hvert led sættes ind i formlen: 
+![[Pasted image 20221216093742.png]]
+
+Sæt ind i formel:
+$9x^4$
 
 
 
