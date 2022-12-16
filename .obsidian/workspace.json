@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributions.md",
+                "file": "Power.t.test.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributions.md",
+                "file": "Power.t.test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributions.md",
+                "file": "Power.t.test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributions.md"
+                "file": "Power.t.test.md"
               }
             }
           }
@@ -231,8 +231,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448a421491033a17",
+  "active": "78bd57e19e202598",
   "lastOpenFiles": [
+    "Confidence intervals and quantiles.md",
+    "Distributions.md",
     "Test statistics and p-values.md",
     "Model regression.md",
     "Plots.md",
@@ -240,8 +242,6 @@
     "Rescources/Pasted image 20221216190639.png",
     "Rescources/Pasted image 20221216190037.png",
     "Rescources/Pasted image 20221216182823.png",
-    "Rescources/Pasted image 20221216191251.png",
-    "Rescources/Pasted image 20221216190700.png",
-    "Distributions.md"
+    "Rescources/Pasted image 20221216191251.png"
   ]
 }
