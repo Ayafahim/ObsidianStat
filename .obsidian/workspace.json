@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anova.md",
+                "file": "model regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anova.md",
+                "file": "model regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anova.md",
+                "file": "model regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anova.md"
+                "file": "model regression.md"
               }
             }
           }
@@ -183,15 +183,15 @@
   },
   "active": "b0f877703314f665",
   "lastOpenFiles": [
+    "Proportions interference & tables.md",
+    "Anova.md",
     "Distributions.md",
     "Confidence intervals and quantiles.md",
     "model regression.md",
     "conflict-files-obsidian-git.md",
-    "Anova.md",
     "Plots.md",
     "Probabitlity & Simulation.md",
     "Pasted image 20221216182928.png",
-    "Pasted image 20221216183028.png",
-    "Pasted image 20221216183030.png"
+    "Pasted image 20221216183028.png"
   ]
 }
