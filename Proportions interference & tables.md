@@ -171,7 +171,7 @@ fx:
 How many days does the experiment need to run in order to obtain a 95% confidence interval for the proportion of components to be discarded, which has an expected width of 5 percentage points?
 $ME = 0.05/2 = 0.025$
 
-# Difference of two proportions estimator phat1 − phat2 and confidence interval for the difference
+# Difference of std of two proportions estimator phat1 − phat2 and confidence interval for the difference
 
 ![[Pasted image 20221216154123.png]]
 
@@ -197,3 +197,39 @@ sigmahat <- sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
 ![[Pasted image 20221216181626.png]]
 
 
+
+
+# Investigate difference in on proportion in multiple groups 
+![[Pasted image 20221216182950.png]]
+
+```R
+M <- as.table(rbind(c(18,11,22,9),c(38,36,15,12))) 
+M 
+##    A  B  C D 
+## A 18 11 22 9 
+## B 38 36 15 12
+
+
+## Chi^2 test 
+(Xsq <- chisq.test(M)) 
+## 
+## Pearson's Chi-squared test 
+## 
+## data: M 
+## X-squared = 13, df = 3, p-value = 0.006 
+## Observed statistic Xsq$statistic 
+## X-squared 
+## 12.57 
+
+## p-value 
+1 - pchisq(Xsq$statistic, df=ncol(M)-1)
+
+## X-squared 
+## 0.005671 
+
+## Critical value 
+
+qchisq(0.99, df=length(x)-1) 
+## [1] 11.34
+
+``` 

@@ -18,5 +18,5 @@ Which of the following can be concluded using the given information and the book
 
 How to calculate the median in exponitel distribution
 ![[Pasted image 20221216190037.png]]
-'''
+
 

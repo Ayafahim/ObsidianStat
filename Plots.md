@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # Q-Q plot 
 Husk: Use q-q plot on residuals to check the normality assumption. If the residuals are close the the line its apperas not deviate from normality
 ![[Pasted image 20221216182823.png]]
 
 
+=======
+>>>>>>> origin/main
 
 # Plots for diff distributions
 
@@ -11,6 +14,8 @@ Husk: Use q-q plot on residuals to check the normality assumption. If the residu
 
 ## $X^2$-dist
 ![[Pasted image 20221216172641.png]]
+
+
 
 
 # Normal dist & t-dist
@@ -30,3 +35,11 @@ Husk: Use q-q plot on residuals to check the normality assumption. If the residu
 
 ![[Pasted image 20221216112413.png]]
 
+# PDF (probability density function) vs CDF cumulative distribution function (Graph)
+## PDF:
+![[Pasted image 20221216182928.png]]
+
+## CDF:
+![[Pasted image 20221216183032.png]]
+
+# Uniform distribution graph

@@ -53,8 +53,9 @@ A random variable X follows a uniform distribution on the interval [0; 1]. The e
 
 The transformed variable is uniformly distributed on [8, 12] so by Eq. 2-52 and 2-53 the answer is: $µ = 1/2*(12 − 8) = 10$ and $σ^2 = 1/12*(12 − 8)*2 = 16 12 = 4 3$
 
+![[Pasted image 20221216185255.png]]
 
-
+The probability is always 1 with an uniform distrubution. The probability is the same. 
 ## Normal Distribution
 
 ### Standard Normal Distribution/ z-dist.
