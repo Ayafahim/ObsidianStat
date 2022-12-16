@@ -70,4 +70,9 @@ What is the calculated correlation between the energy demand and the GDP?
 
 ### $coef$[2] = b1 så hvis ik du har data kig på estimate for b1
 sd(gdp) / sd(energy) * lm(energy ~ gdp)$coef[2]
+
+
+## har du datasæt så 
+cor(energy, gdp)
+
 ```

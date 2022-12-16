@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model regression.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "model regression.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "model regression.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "model regression.md"
+                "file": "Summary statistics & miscellaneous.md"
               }
             }
           }
@@ -257,15 +257,15 @@
   },
   "active": "32be7697cfd06e8b",
   "lastOpenFiles": [
+    "Probabitlity & Simulation.md",
+    "model regression.md",
     "Rescources/Pasted image 20221215125613.png",
     "Distributions.md",
-    "model regression.md",
     "Summary statistics & miscellaneous.md",
     "Anova.md",
     "Test statistics and p-values.md",
     "Power.t.test.md",
     "Pooled variance.md",
-    "Proportions interference & tables.md",
-    "Probabitlity & Simulation.md"
+    "Proportions interference & tables.md"
   ]
 }
