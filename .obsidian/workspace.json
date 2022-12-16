@@ -57,8 +57,12 @@
             "id": "c7853986c059a02f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test statistics and p-values.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -164,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test statistics and p-values.md"
+              }
             }
           }
         ]
@@ -211,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448a421491033a17",
+  "active": "c7853986c059a02f",
   "lastOpenFiles": [
+    "Distributions.md",
+    "Huskeregler.md",
+    "Anova.md",
+    "Ting der mangler.md",
     "Rescources/Pasted image 20221216174551.png",
     "Rescources/Pasted image 20221215125925.png",
     "Probabitlity & Simulation.md",
-    "Ting der mangler.md",
     "conflict-files-obsidian-git.md",
     "Summary statistics & miscellaneous.md",
-    "Confidence intervals and quantiles.md",
-    "Distributions.md",
-    "model regression.md",
-    "Huskeregler.md"
+    "Confidence intervals and quantiles.md"
   ]
 }
