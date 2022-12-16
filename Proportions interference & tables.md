@@ -41,7 +41,7 @@ Hvor x = alle dem der startede i technat det år
 ```R
 (10339 - 0.32 * 30193) / sqrt(30193 * 0.32 * 0.68)
 
-## mere generelt
+## mere genereltt
 
 (x-n*p0)/sqrt(n * po * (1-po))
 
