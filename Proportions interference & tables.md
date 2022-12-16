@@ -84,8 +84,36 @@ qnorm(0.995)
 
 ![[Pasted image 20221215105332.png]]
 
+```R
+```R
+x1 <-
+n1 <-
+x2 <-
+n2 <-
+
+phat <- (x1+x2)/(n1+n2)
+phat1 <-x1/n1
+phat2 <-x2/n2
+
+zobs <- (phat1-phat2)/sqrt(phat*(1-phat)*(1/n1+1/2))
+
+
+```
+
+
 
 ![[Pasted image 20221215112444.png]]
+
+```R
+x1 <-
+n1 <-
+x2 <-
+n2 <-
+
+prop.test(c(x1,x2), c(n1,n2), correct = FALSE)
+
+```
+
 
 
 # Test for no change in distribution
