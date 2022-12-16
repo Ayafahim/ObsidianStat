@@ -38,7 +38,7 @@ Allerede udregnet populære quantiles:
 ### Confidence interval for the mean
 
 ```R
-## ex for 99%
+### ex for 99%
 mean()+ c(-1,1)*qt(p=0.995,df=n-1)*sd()/sqrt(n)
 ```
 
