@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model regression.md",
+                "file": "Plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "model regression.md",
+                "file": "Plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "model regression.md",
+                "file": "Plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "model regression.md"
+                "file": "Plots.md"
               }
             }
           }
@@ -269,15 +269,15 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Probabitlity & Simulation.md",
+    "model regression.md",
     "Plots.md",
     "Pooled variance.md",
     "Power.t.test.md",
-    "Probabitlity & Simulation.md",
     "Summary statistics & miscellaneous.md",
     "Test statistics and p-values.md",
     "Anova.md",
     "Distributions.md",
-    "Confidence intervals and quantiles.md",
-    "Proportions interference & tables.md"
+    "Confidence intervals and quantiles.md"
   ]
 }

@@ -1,3 +1,16 @@
+# Plots for diff distributions
+
+## Exp
+![[Pasted image 20221216172531.png]]
+
+## $X^2$-dist
+
+
+
+
+
+
+
 # Correlation coefficents
 
 ![[Pasted image 20221216110310.png]]
