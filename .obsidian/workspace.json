@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anova.md",
+                "file": "Probabitlity & Simulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anova.md",
+                "file": "Probabitlity & Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anova.md",
+                "file": "Probabitlity & Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anova.md"
+                "file": "Probabitlity & Simulation.md"
               }
             }
           }
@@ -269,6 +269,7 @@
   },
   "active": "8891922c7c9094b7",
   "lastOpenFiles": [
+    "Anova.md",
     "Probabitlity & Simulation.md",
     "Test statistics and p-values.md",
     "Confidence intervals and quantiles.md",
@@ -277,7 +278,6 @@
     "Plots.md",
     "Rescources/Pasted image 20221216110310.png",
     "Rescources/Pasted image 20221216094640.png",
-    "Distributions.md",
-    "Summary statistics & miscellaneous.md"
+    "Distributions.md"
   ]
 }
