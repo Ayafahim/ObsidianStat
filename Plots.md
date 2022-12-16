@@ -1,3 +1,4 @@
+
 # Plots for diff distributions
 
 ## Exp
@@ -30,3 +31,5 @@
 
 ## CDF:
 ![[Pasted image 20221216183032.png]]
+
+# Uniform distribution 

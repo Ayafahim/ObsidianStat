@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Confidence intervals and quantiles.md",
+                "file": "Plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Confidence intervals and quantiles.md",
+                "file": "Plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Confidence intervals and quantiles.md",
+                "file": "Plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Confidence intervals and quantiles.md"
+                "file": "Plots.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "2d1aa8c72d88cf6d",
   "lastOpenFiles": [
+    "Confidence intervals and quantiles.md",
     "Pasted image 20221216182928.png",
     "Pasted image 20221216183028.png",
     "Pasted image 20221216183030.png",
@@ -156,7 +157,6 @@
     "conflict-files-obsidian-git.md",
     "Probabitlity & Simulation.md",
     "Power.t.test.md",
-    "Confidence intervals and quantiles.md",
     "Distributions.md"
   ]
 }
