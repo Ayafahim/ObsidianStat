@@ -42,9 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "535cb5474e48cf47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd3722b9fb322741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test statistics and p-values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributions.md",
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributions.md",
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributions.md"
+                "file": "Test statistics and p-values.md"
               }
             }
           }
@@ -161,14 +181,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19b9b57866aaa0dd",
+  "active": "dd3722b9fb322741",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Distributions.md",
     "Confidence intervals and quantiles.md",
     "Anova.md",
     "Test statistics and p-values.md",
-    "conflict-files-obsidian-git.md",
     "Proportions interference & tables.md",
-    "Distributions.md",
     "Rescources/Pasted image 20221216171755.png",
     "Rescources/Pasted image 20221216171826.png",
     "model regression.md",
