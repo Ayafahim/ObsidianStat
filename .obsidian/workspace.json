@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "048ddb70edb7afb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -136,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "448a421491033a17",
+  "active": "048ddb70edb7afb0",
   "lastOpenFiles": [
+    "Plots.md",
     "Distributions.md",
     "Summary statistics & miscellaneous.md",
     "Test statistics and p-values.md",
@@ -146,7 +160,6 @@
     "Anova.md",
     "conflict-files-obsidian-git.md",
     "Rescources/Pasted image 20221215125925.png",
-    "2022-12-16.md",
-    "Power.t.test.md"
+    "2022-12-16.md"
   ]
 }
