@@ -25,11 +25,11 @@
 
 ![[Pasted image 20221216112413.png]]
 
-# PDF (probability density function) vs CDF cumulative distribution function
+# PDF (probability density function) vs CDF cumulative distribution function (Graph)
 ## PDF:
 ![[Pasted image 20221216182928.png]]
 
 ## CDF:
 ![[Pasted image 20221216183032.png]]
 
-# Uniform distribution 
+# Uniform distribution graph

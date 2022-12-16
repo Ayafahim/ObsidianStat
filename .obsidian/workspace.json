@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots.md",
+                "file": "Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots.md",
+                "file": "Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots.md",
+                "file": "Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots.md"
+                "file": "Distributions.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "2d1aa8c72d88cf6d",
   "lastOpenFiles": [
+    "Plots.md",
     "Confidence intervals and quantiles.md",
     "Pasted image 20221216182928.png",
     "Pasted image 20221216183028.png",
     "Pasted image 20221216183030.png",
     "Pasted image 20221216183032.png",
-    "Plots.md",
     "conflict-files-obsidian-git.md",
     "Probabitlity & Simulation.md",
     "Power.t.test.md",
