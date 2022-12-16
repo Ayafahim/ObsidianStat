@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Test statistics and p-values.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Test statistics and p-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Test statistics and p-values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Test statistics and p-values.md"
               }
             }
           }
@@ -235,14 +235,14 @@
   },
   "active": "9f40a7afd91324e2",
   "lastOpenFiles": [
+    "model regression.md",
+    "conflict-files-obsidian-git.md",
     "Proportions interference & tables.md",
     "Rescources/Pasted image 20221215125925.png",
-    "conflict-files-obsidian-git.md",
     "Confidence intervals and quantiles.md",
     "Test statistics and p-values.md",
     "Distributions.md",
     "Probabitlity & Simulation.md",
-    "model regression.md",
     "Power.t.test.md",
     "Huskeregler.md"
   ]
