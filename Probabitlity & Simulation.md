@@ -4,9 +4,14 @@ Se [[Distributions]] for formler osv
 parametric bootstrap = simulate multiple samples from the assumed distribution
 Non-parametric bootstrap: simulate multiple samples directly from the data
 
+### Example of what is non-paramatric bootstrapping #bootstrap
+![[Pasted image 20221216180252.png]]
+
+The differences in the answers are: 
+• replace: must be TRUE 
+• quantiles calculated: they must be 2.5% and 97.5% to have the right significance level with 95% percent in between
+
 # Distributions examples
-
-
 
 # Possion
 ![[Pasted image 20221216113425.png]]
@@ -16,7 +21,7 @@ Non-parametric bootstrap: simulate multiple samples directly from the data
 
 
 
-## R kommando forskelle
+## R kommando forskelle #probability
 
 ```R
 #disse er for bogstaver p og q bar udskift norm med hvad end passer
@@ -35,7 +40,7 @@ qnorm(0.8, mean = 50, sd = 10)
 
 ```
 
-# Different probability commands for over or under value:
+# Different probability commands for over or under value: #
 
 ```R
 #These are examples, switch out the command with rigth distribution
@@ -93,7 +98,7 @@ R-kode
 
 
 
-# Propagation of error
+# Propagation of error #mangler
 
 # The non-linear approximative error propagation rule
 

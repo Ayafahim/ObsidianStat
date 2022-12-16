@@ -37,19 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributions.md",
+                "file": "Probabitlity & Simulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32be7697cfd06e8b",
+            "id": "83839827fa3c69d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anova.md",
+                "file": "Probabitlity & Simulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bootstrapping",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anova.md",
+                "file": "Probabitlity & Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anova.md",
+                "file": "Probabitlity & Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anova.md"
+                "file": "Probabitlity & Simulation.md"
               }
             }
           }
@@ -219,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32be7697cfd06e8b",
+  "active": "83839827fa3c69d1",
   "lastOpenFiles": [
-    "Distributions.md",
-    "Proportions interference & tables.md",
-    "model regression.md",
-    "Pasted image 20221216174551.png",
-    "Power.t.test.md",
+    "Ting der mangler.md",
     "Probabitlity & Simulation.md",
     "Summary statistics & miscellaneous.md",
+    "Confidence intervals and quantiles.md",
+    "Distributions.md",
+    "model regression.md",
+    "Huskeregler.md",
     "Test statistics and p-values.md",
-    "Pooled variance.md",
-    "Confidence intervals and quantiles.md"
+    "Proportions interference & tables.md",
+    "Anova.md"
   ]
 }
