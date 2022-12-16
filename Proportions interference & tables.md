@@ -90,6 +90,14 @@ opg eks
 Estimates er uafhængie af år så derfor tages for alle år.
 formel: phat=x/n
 
+# Estimated Standard Error (sigmahat)
+
+```R
+
+
+```
+
+
 # Estimate Sample Size for a proportion
 
 ![[Pasted image 20221215124849.png]]

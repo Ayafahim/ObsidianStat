@@ -17,7 +17,7 @@ $X_a$ ; a = mean
 
 ![[Pasted image 20221216094153.png]]
 ![[Pasted image 20221216094131.png]]
-#### Example : 
+#### Example : estimate the rate
 her husk at omdanne til rigtige enhed:
 ```R
 ## Vi har fået
@@ -53,7 +53,11 @@ The transformed variable is uniformly distributed on [8, 12] so by Eq. 2-52 and 
 
 
 
-## Normal
+## Normal Distribution
+
+### Standard Normal Distribution
+
+Standard normal distrubtion always have mean 0 and sd = variance = 1
 
 ## T-dist.
 

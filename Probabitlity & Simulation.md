@@ -1,5 +1,9 @@
 Se [[Distributions]] for formler osv
 
+## Bootstrapping
+parametric bootstrap = simulate multiple samples from the assumed distribution
+Non-parametric bootstrap: simulate multiple samples directly from the data
+
 # Distributions examples
 
 ## $X^2-distribution$  

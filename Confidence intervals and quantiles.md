@@ -1,5 +1,6 @@
 [[Test statistics and p-values]]  🌘
 
+### Hvis mean for nulhypotese fx h0 = 0 ikke ligger i CI så er den afvist. og der må være signifikant forskel!!
 
 ## Quantiles
 ![[Pasted image 20221215113931.png]]

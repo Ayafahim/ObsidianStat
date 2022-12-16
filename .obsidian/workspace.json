@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributions.md",
+                "file": "Proportions interference & tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributions.md",
+                "file": "Proportions interference & tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributions.md",
+                "file": "Proportions interference & tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributions.md"
+                "file": "Proportions interference & tables.md"
               }
             }
           }
@@ -255,15 +255,15 @@
   },
   "active": "a8545bace9eff532",
   "lastOpenFiles": [
-    "Probabitlity & Simulation.md",
-    "Summary statistics & miscellaneous.md",
     "Distributions.md",
+    "Probabitlity & Simulation.md",
+    "Confidence intervals and quantiles.md",
+    "Huskeregler.md",
+    "Summary statistics & miscellaneous.md",
     "Proportions interference & tables.md",
     "Rescources/Pasted image 20221215193522.png",
-    "Huskeregler.md",
     "Test statistics and p-values.md",
     "Anova.md",
-    "Confidence intervals and quantiles.md",
     "Power.t.test.md"
   ]
 }

@@ -7,3 +7,5 @@ var(x)
 ### svaret er allerede i potens så det skrives s^2 = 16.68421
 ## hvor s = sqrt(16.68421)
 ```
+
+
