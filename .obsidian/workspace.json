@@ -67,8 +67,12 @@
             "id": "1495d1ee0942a515",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Probabitlity & Simulation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -121,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#std",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probabitlity & Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probabitlity & Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probabitlity & Simulation.md"
+              }
             }
           }
         ]
@@ -208,15 +215,15 @@
   },
   "active": "1495d1ee0942a515",
   "lastOpenFiles": [
+    "Plots.md",
+    "Confidence intervals and quantiles.md",
     "conflict-files-obsidian-git.md",
     "Pooled stuff.md",
     "Distributions.md",
-    "Confidence intervals and quantiles.md",
     "Probabitlity & Simulation.md",
     "Proportions interference & tables.md",
     "Power.t.test.md",
     "model regression.md",
-    "Anova.md",
-    "Plots.md"
+    "Anova.md"
   ]
 }
