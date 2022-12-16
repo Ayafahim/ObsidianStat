@@ -21,7 +21,7 @@ When p-value is above sig. level h0 is accepted
 tobs <- (mean(x) - mu) / (sd(x) / sqrt(n))
 
 ### tobs with R
-# 95% quantile
+# 99% quantile
 
 qt(quantile = 0.995,df = 24)
 
@@ -61,15 +61,13 @@ tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
 ```R
 tobs <- (mean(x-y) - h0) / sqrt((sd(x)^2/length(x)) + (sd(y)^2/length(y)))
 
-
-
-s <-
-n <-
+##df
+s1 <-
+n1 <-
+s2 <-
+n2 <-
+v <- (s1^2/n1 + s2^2/n2)^2 / ( (s1^2/n1)^2/n1-1 + (s2^2/n2)^2/n2-1 )
 v
-
-
-
-
 ```
 
 ### df
