@@ -68,6 +68,26 @@ pnorm(90, mean = 100, sd = sqrt(22.5))
 ```
 
 
+# Probability that the sample mean is greater?
+
+![[Pasted image 20221216092438.png]]
+
+Theorem 3.3
+
+R-kode
+```R
+#Her er 5 & 2 den mean og sd vi har fået. Divider sd med sqrt(sample mean)
+## og self 1-pnorm fordi det skal være højere.
+1-pnorm(4.5, mean=5, sd=2/sqrt(25))
+```
+
+
+
+
+
+
+
+
 ## Poisson opg
 
 ![[Pasted image 20221215114608.png]]

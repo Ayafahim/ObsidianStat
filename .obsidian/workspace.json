@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test statistics and p-values.md",
+                "file": "Summary statistics & miscellaneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test statistics and p-values.md"
+                "file": "Summary statistics & miscellaneous.md"
               }
             }
           }
@@ -243,11 +243,11 @@
   },
   "active": "9b98c3b2a756edc8",
   "lastOpenFiles": [
+    "Probabitlity.md",
+    "Test statistics and p-values.md",
     "Summary statistics & miscellaneous.md",
     "Anova.md",
     "Confidence intervals and quantiles.md",
-    "Probabitlity.md",
-    "Test statistics and p-values.md",
     "Distributions.md",
     "Proportions interference & tables.md",
     "Power.t.test.md",
