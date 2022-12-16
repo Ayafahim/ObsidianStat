@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e69864af4a6f3a29",
+        "id": "e4bf04e32274aac3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1da300cf0980da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anova.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "563b2d7c4bdbe362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rescources/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fab3283a56e9cab3",
+            "id": "2d1aa8c72d88cf6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,77 +20,16 @@
             }
           },
           {
-            "id": "fa40292e08d74fb3",
+            "id": "a0be2d592f981f90",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Rescources/Pasted image 20221215125925.png"
-              }
-            }
-          },
-          {
-            "id": "c7853986c059a02f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test statistics and p-values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78bd57e19e202598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summary statistics & miscellaneous.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6ccbbad1375eb29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test statistics and p-values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae69a6954773a7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabitlity & Simulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceef13829e5eef68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "model regression.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20221216182928.png"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bootstrapping",
+                "query": "std. ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Probabitlity & Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary statistics & miscellaneous.md",
+                "file": "Probabitlity & Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary statistics & miscellaneous.md"
+                "file": "Probabitlity & Simulation.md"
               }
             }
           }
@@ -231,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78bd57e19e202598",
+  "active": "2d1aa8c72d88cf6d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Summary statistics & miscellaneous.md",
-    "Power.t.test.md",
-    "Anova.md",
+    "model regression.md",
+    "Plots.md",
     "Distributions.md",
-    "Test statistics and p-values.md",
-    "Pooled stuff.md",
     "Confidence intervals and quantiles.md",
-    "Proportions interference & tables.md",
-    "Rescources/Pasted image 20221216181854.png"
+    "Pasted image 20221216182928.png",
+    "Pasted image 20221216183028.png",
+    "Pasted image 20221216183030.png",
+    "Pasted image 20221216183032.png",
+    "conflict-files-obsidian-git.md",
+    "Probabitlity & Simulation.md"
   ]
 }
