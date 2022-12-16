@@ -113,11 +113,6 @@ prop.test(c(x1,x2), c(n1,n2), correct = FALSE)
 
 ```
 
-
-
-
-
-
 # Test for no change in distribution
 
 Do a chi-square test

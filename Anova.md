@@ -99,3 +99,13 @@ x¯A = 127 mL ; x¯B = 135 mL ;  x¯C = 136 mL from which we can see that A is s
 
 # Estimate the effect of sigma
 
+## Eksample:
+
+![[Pasted image 20221216175520.png]]
+![[Pasted image 20221216175539.png]]
+
+```R
+
+logt <- c(-1.02, -1.24, -0.92, -1.47, -0.08, -0.49, -0.71, 0.22, -0.82, -1.05, -1.17, -0.92, -0.58, 0.02, -0.34, -0.97, -1.51, -1.56, -1.2, -0.99, -1.47, -1.39, -1.2, -1.02) 
+
+mean(logt)

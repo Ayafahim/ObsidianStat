@@ -2,6 +2,8 @@
 
 ### Hvis mean for nulhypotese fx h0 = 0 ikke ligger i CI så er den afvist. og der må være signifikant forskel!!
 
+### Get the mean if you have the CI (helst 95% da jeg ved det altid virker) så bare lowerbound + upperbound/2
+
 
 # Critical level i.e $X^2$- distribution
 
