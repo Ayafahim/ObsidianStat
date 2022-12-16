@@ -64,6 +64,8 @@ Standard normal distrubtion always have mean 0 and sd = variance = 1
 ![[Pasted image 20221216110058.png]]
 
 
+
+
 ## Hypergeometrisk 
 
 ## Log dist.
