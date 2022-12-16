@@ -85,7 +85,6 @@ qnorm(0.995)
 ![[Pasted image 20221215105332.png]]
 
 ```R
-```R
 x1 <-
 n1 <-
 x2 <-
@@ -113,6 +112,9 @@ n2 <-
 prop.test(c(x1,x2), c(n1,n2), correct = FALSE)
 
 ```
+
+
+
 
 
 
@@ -165,3 +167,11 @@ fx:
 How many days does the experiment need to run in order to obtain a 95% confidence interval for the proportion of components to be discarded, which has an expected width of 5 percentage points?
 $ME = 0.05/2 = 0.025$
 
+# Difference of two proportions estimator phat1 − phat2 and confidence interval for the difference
+
+![[Pasted image 20221216154123.png]]
+
+
+```R
+(phat1-phat2) + c(1,-1) * qnorm(0.995) * sqrt( (phat1*(1-phat1))/n1 + (phat2*(1-phat2))/n2 )
+```
