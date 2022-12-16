@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221216182928.png",
+                "file": "Confidence intervals and quantiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221216182928.png",
+                "file": "Confidence intervals and quantiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20221216182928.png"
+                "file": "Confidence intervals and quantiles.md"
               }
             }
           }
@@ -147,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0be2d592f981f90",
+  "active": "2d1aa8c72d88cf6d",
   "lastOpenFiles": [
+    "Pasted image 20221216182928.png",
     "Pasted image 20221216183028.png",
     "Pasted image 20221216183030.png",
     "Pasted image 20221216183032.png",
@@ -157,7 +157,6 @@
     "Probabitlity & Simulation.md",
     "Power.t.test.md",
     "Confidence intervals and quantiles.md",
-    "Distributions.md",
-    "model regression.md"
+    "Distributions.md"
   ]
 }
